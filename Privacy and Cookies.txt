@@ -1,0 +1,60 @@
+Privacy and Cookies.
+
+Thank you for visiting Proctor.io, Inc.'s ("Proctorio") Internet web site ("Site") located at the URL proctorio.com. This privacy policy ("Privacy Policy") details certain policies implemented throughout Proctorio governing Proctorio's use of Personally Identifiable Information about users of our Site, users of the Secure Exam Proctor product, and users of our technical support services (the "Services").
+
+Privacy Policy Updates.
+Due to the Internet's rapidly evolving nature, Proctorio may need to update this Privacy Policy from time to time. If so, Proctorio will post its updated Privacy Policy on our Site located at proctorio.com and may not notify you of the updated posting. Proctorio encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of Personally Identifiable Information to us will be subject to the terms of the then-current Privacy Policy.
+
+Information Collection and Use.
+You can generally visit our Site without revealing any Personally Identifiable Information about yourself. In order to use the Services, however, we may be required to collect personally identifiable information, such as your name, email address, phone number, and institution ("Personally Identifiable Information"). Additionally, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or provide us with feedback, which due to the nature of some of these activities, may include the collection of "Personally Identifiable Information". Additionally, by accessing the Site or using the Services, we might collect additional data as set forth below in the "Aggregate Information" paragraph.
+
+Note: Proctorio strictly adheres to the Family Education Rights Protection Act of 1974 (FERPA). Refer to the FERPA Policy for more information.
+We may use your Personally Identifiable Information to contact you to deliver certain services, news or information related to the Services, verify your authority to use our Services, and improve the content and general administration of the Site and our Services. If you are unwilling to allow your Personally Identifiable Information to be used as described in this Section, you should use the Services.
+
+Note: Under no circumstances will this information be disseminated to third parties for any use.
+
+Secure Exam Proctor Administration: In order to register an institution to use the Proctorio Secure Exam Proctor solution, an administrator account must be created. To register this account, personally identifiable information (such as name, phone number, institution name, and campus email address), must be provided along with information regarding the learning management system (LMS) used by the institution.
+
+Secure Exam Proctor Request for Demo:  In order to request a demonstration of the Proctorio Secure Exam Proctor solution, personally identifiable information (such as name, phone number, institution name, and campus email address), must be provided along with information regarding the learning management system (LMS) used by the institution.
+
+Secure Exam Proctor Exam Environment: You can generally utilize the Secure Exam Proctor for taking a proctored examination without revealing any Personally Identifiable Information about yourself. The information collected during the examination process will not be used by Proctorio in anyway. The types of information collected depend on the exam settings and can include video, audio, and websites visited.
+
+Secure Exam Proctor Technical Support: To contact technical support personally identifiable information (such as name, phone number, institution name, and campus email address), may be collected to facilitate the troubleshooting process. Disclosure of such information is considered voluntary and will not be used to create an academic record.
+
+Note: Proctorio's technical support complies with FERPA and all employees are required to complete FERPA training.
+
+Children's Privacy.
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@proctorio.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information.
+
+Cookies.
+Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies to use the site. A cookie is a small data file that is transferred to your computer's hard disk. Proctorio may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+
+Note: Cookies used on this site and by the Services cannot be used to personally identify you.
+
+Aggregate Information.
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
+
+Third Party Services.
+Proctorio uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs, help center, and knowledge bases, and to help us understand the use of our Services. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+
+Disclosure.
+We do not disclose your private information except in the limited circumstances described here.
+
+Law and Harm: We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Proctorio's rights or property.
+
+Business Transfers: In the event that Proctorio is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
+
+Links to Third Party Sites.
+The Site may provide links to other Web sites or resources over which Proctorio does not have control ("External Web Sites"). Such links do not constitute an endorsement by Proctorio of those External Web Sites. You acknowledge that Proctorio is providing these links to you only as a convenience, and further agree that Proctorio is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+
+Security.
+We employ procedural and technological security measures that are reasonably designed to help protect your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction, which includes encryption and other security measures to help prevent unauthorized access to your Personally Identifiable Information. The data that you transmit as part of your use of the Services ("Storage Data") is in encrypted form and Proctorio does not have access to your Storage Data in its unencrypted form.
+
+Note: Only authorized users, defined as "School Officials" in the Family Education Rights Protection Act of 1974 (FERPA) will have the ability to decrypt any academic records stored by Proctorio.
+
+Notice to European Users.
+Proctorio complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Proctorio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor.
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Proctorio commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first email Proctorio at privacy@proctorio.com.
+
+If you have any questions or comments about this Privacy Policy, please contact us at privacy@proctorio.com.
+Effective: July 1, 2013
