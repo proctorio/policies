@@ -17,7 +17,7 @@ Secure Exam Proctor Administration: In order to register an institution to use t
 
 Secure Exam Proctor Request for Demo:  In order to request a demonstration of the Proctorio Secure Exam Proctor solution, personally identifiable information (such as name, phone number, institution name, and campus email address), must be provided along with information regarding the learning management system (LMS) used by the institution.
 
-Secure Exam Proctor Exam Environment: You can generally utilize the Secure Exam Proctor for taking a proctored examination without revealing any Personally Identifiable Information about yourself. The information collected during the examination process will not be used by Proctorio in anyway. The types of information collected depend on the exam settings and can include video, audio, and websites visited.
+Secure Exam Proctor Exam Environment: You can generally utilize the Secure Exam Proctor for taking a proctored examination without revealing any Personally Identifiable Information about yourself. The information collected during the examination process will only be used in an anonymized form for product development. The types of information collected depend on the exam settings and can include video, audio, and websites visited.
 
 Secure Exam Proctor Technical Support: To contact technical support personally identifiable information (such as name, phone number, institution name, and campus email address), may be collected to facilitate the troubleshooting process. Disclosure of such information is considered voluntary and will not be used to create an academic record.
 
@@ -37,6 +37,17 @@ The Site may track the total number of visitors to our Site, the number of visit
 Third Party Services.
 Proctorio uses a variety of services hosted by third parties to help provide our Services, such as hosting our various blogs, help center, and knowledge bases, and to help us understand the use of our Services. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 
+Data Deletion.
+Proctorio will store and maintain institutional data for up to 60 days after the termination of the contract, unless otherwise specified. Data destruction will occur in one of two ways according to the institution's preference: Proctorio will 1) destroy the data, or 2) deliver it to the institution.
+Questions regarding data storage, recovery, and deletion should be directed to:
+
+Proctorio, Inc.
+Attn: Data Team
+160 Greentree Drive
+Suite 101
+Dover, DE 19904
+Email: data@proctorio.com
+
 Disclosure.
 We do not disclose your private information except in the limited circumstances described here.
 
@@ -51,6 +62,25 @@ Security.
 We employ procedural and technological security measures that are reasonably designed to help protect your Personally Identifiable Information from loss, unauthorized access, disclosure, alteration or destruction, which includes encryption and other security measures to help prevent unauthorized access to your Personally Identifiable Information. The data that you transmit as part of your use of the Services ("Storage Data") is in encrypted form and Proctorio does not have access to your Storage Data in its unencrypted form.
 
 Note: Only authorized users, defined as "School Officials" in the Family Education Rights Protection Act of 1974 (FERPA) will have the ability to decrypt any academic records stored by Proctorio.
+
+Proctorio conducts daily security audits including penetration testing and vulnerability assessments. Client institutions or their designated representatives may review security testing results or conduct their own security audit of Proctorio's data security and storage practices. Written requests for inspection and testing can be made to data@proctorio.com.
+
+Data Breach Notification.
+Proctorio maintains an information security plan to protect the security, confidentiality, and integrity of Personally Identifiable Information (PII) of users and client institutions. As part of its information security plan, Proctorio will notify affected individuals and institutions of a data security breach without unreasonable delay and in no event later than 60 days from discovery of the breach. Written notification will be sent by first-class mail to the address on record for the individual or institution.
+
+Written notification will contain:
+
+A brief description of what occurred with respect to the breach, including, to the extent known, the date of the breach and the date on which the breach was discovered;
+
+A description of the types of PII that were involved in the breach;
+
+A description of the steps the affected individual or institution should take to protect against potential harm from the breach;
+
+A description of what Proctorio is doing to investigate and mitigate the breach and to prevent future breaches; and
+
+Contact procedures for individuals to ask questions or learn additional information, which will include a toll-free telephone number, an email address, website or postal address.
+
+In the event that Proctorio determines individuals or institutions should be notified urgently of a breach because of possible imminent misuse of unsecured PII, Proctorio may, in addition to providing notice as outlined above, contact the individual or institution by telephone or other means, as appropriate.
 
 Notice to European Users.
 Proctorio complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Proctorio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor.
