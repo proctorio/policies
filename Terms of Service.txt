@@ -33,12 +33,15 @@ Some of our Services require you to download client software ("Software") which 
 7. Proctorio Rights.
 All right, title, and interest in and to the Services (excluding Content provided by users) are and will remain the exclusive property of Proctorio and its licensors. The Services are protected by copyright, trademark, and other laws of both the United States and foreign countries. Nothing in the Terms gives you a right to use the Proctorio name or any of the Proctorio trademarks, logos, domain names, and other distinctive brand features. Any feedback, comments, or suggestions you may provide regarding Proctorio, or the Services is entirely voluntary and we will be free to use such feedback, comments or suggestions as we see fit and without any obligation to you.
 
-8. Restrictions on Use of the Services.
+8. Proctorio Minimum System Requirements.
+Proctorio offers a flexible service, which may include recording of video, audio, and screen activity or none of the above. The system requirements are dependent on the exam settings.
+
+9. Restrictions on Use of the Services.
 We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services, to suspend or terminate users, and to reclaim usernames without liability to you. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Proctorio, its users, its clients, and the public.
 Note: Proctorio does not collect or disclose personally identifiable information with third parties.
 You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Proctorio's computer systems, or the technical delivery systems of Proctorio's providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Proctorio (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Proctorio (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Proctorio is expressly prohibited); (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information; or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
 
-9. Copyright Policy.
+10. Copyright Policy.
 Proctorio respects the intellectual property rights of others and expects users of the Services to do the same. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us. If you believe that your Content has been copied in a way that constitutes copyright infringement, please provide us with the following information: (i) a physical or electronic signature of the copyright owner or a person authorized to act on their behalf; (ii) identification of the copyrighted work claimed to have been infringed; (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (iv) your contact information, including your address, telephone number, and an email address; (v) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (vi) a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 We reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you. In appropriate circumstances, Proctorio will also terminate a user's account if the user is determined to be a repeat infringer. Our designated copyright agent for notice of alleged copyright infringement appearing on the Services is:
 
@@ -49,14 +52,14 @@ Suite 101
 Dover, DE 19904
 Email: copyright@proctorio.com
 
-10. Ending these Terms.
+11. Ending these Terms.
 The Terms will continue to apply until terminated by either you or Proctorio as follows.
 You may end your legal agreement with Proctorio at any time for any reason by discontinuing your use of the Services. You do not need to specifically inform Proctorio when you stop using the Services. If you stop using the Services your accounts may be deactivated due to prolonged inactivity under the sole discretion of Proctorio.
 We may suspend or terminate your accounts or cease providing you with all or part of the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account.
 In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: 4, 5, 7, 8, 10, 11, and 12.
 Nothing in this section shall affect Proctorio's rights to change, limit or stop the provision of the Services without prior notice, as provided above in section 1.
 
-11. Disclaimers and Limitations of Liability.
+12. Disclaimers and Limitations of Liability.
 Please read this section carefully since it limits the liability of Proctorio and its parents, subsidiaries, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors (collectively, the "Proctorio Entities"). Each of the subsections below only applies up to the maximum extent permitted under applicable law. Some jurisdictions do not allow the disclaimer of implied warranties or the limitation of liability in contracts, and as a result the contents of this section may not apply to you. Nothing in this section is intended to limit any rights you may have which may not be lawfully limited.
 
 A. The Services are Available "AS-IS".
@@ -71,7 +74,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PROCTORIO ENTITIES SHALL 
 IN NO EVENT SHALL THE AGGREGATE LIABILITY OF THE PROCTORIO ENTITIES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (U.S. $100.00) OR THE AMOUNT YOU PAID PROCTORIO, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM.
 THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, AND WHETHER OR NOT THE PROCTORIO ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-12. General Terms
+13. General Terms
 
 A. Waiver and Severability
 The failure of Proctorio to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision. In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.
