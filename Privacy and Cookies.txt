@@ -24,7 +24,7 @@ Secure Exam Proctor Technical Support: To contact technical support personally i
 Note: Proctorio's technical support complies with FERPA and all employees are required to complete FERPA training.
 
 Children's Privacy.
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@proctorio.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information.
+Our Services are not directed to people under 18. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@proctorio.com. We do not knowingly collect personal information from children under 18. If we become aware that a child under 18 has provided us with personal information, we take steps to remove such information.
 
 Cookies.
 Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies to use the site. A cookie is a small data file that is transferred to your computer's hard disk. Proctorio may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
@@ -66,7 +66,7 @@ Note: Only authorized users, defined as "School Officials" in the Family Educati
 Proctorio conducts daily security audits including penetration testing and vulnerability assessments. Client institutions or their designated representatives may review security testing results or conduct their own security audit of Proctorio's data security and storage practices. Written requests for inspection and testing can be made to data@proctorio.com.
 
 Data Breach Notification.
-Proctorio maintains an information security plan to protect the security, confidentiality, and integrity of Personally Identifiable Information (PII) of users and client institutions. As part of its information security plan, Proctorio will notify affected individuals and institutions of a data security breach without unreasonable delay and in no event later than 60 days from discovery of the breach. Written notification will be sent by first-class mail to the address on record for the individual or institution.
+Proctorio maintains an information security plan to protect the security, confidentiality, and integrity of Personally Identifiable Information (PII) of users and client institutions. As part of its information security plan, Proctorio will notify affected individuals and institutions of a data security breach without unreasonable delay and in no event later than 72 hours from discovery of the breach. Written notification will be sent by first-class mail to the address on record for the individual or institution.
 
 Written notification will contain:
 
@@ -82,9 +82,16 @@ Contact procedures for individuals to ask questions or learn additional informat
 
 In the event that Proctorio determines individuals or institutions should be notified urgently of a breach because of possible imminent misuse of unsecured PII, Proctorio may, in addition to providing notice as outlined above, contact the individual or institution by telephone or other means, as appropriate.
 
-Notice to European Users.
-Proctorio complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Proctorio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor.
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Proctorio commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first email Proctorio at privacy@proctorio.com.
+EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.
+Proctorio, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield site here https://www.privacyshield.gov or download this PDF of a Privacy Shield overview here http://ec.europa.eu/justice/data-protection/files/factsheets/factsheet_eu-us_privacy_shield_en.pdf.
+
+Under the Privacy Shield frameworks, Proctorio, Inc. is responsible for processing the personal data it receives, under each Privacy Shield Framework, as well as transfers to a third party acting as an agent on its behalf. Proctorio, Inc. complies with the Privacy Shield principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield frameworks, Proctorio, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (for issues pertaining to Privacy Shield). In situations where public authorities make lawful requests for information, such as to meet national security or law enforcement requirements, Proctorio, Inc. may be required to disclose personal data.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based, third-party dispute resolution provider (free of charge) at https://www.jamsadr.com/eu-us-privacy-shield.
+
+As more fully described on the Privacy Shield website here https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 If you have any questions or comments about this Privacy Policy, please contact us at privacy@proctorio.com.
 Effective: July 1, 2013
