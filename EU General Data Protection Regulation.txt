@@ -60,12 +60,10 @@ Proctorio has a Data Protection Officer and a Data Privacy Team for complying wi
 
 Questions regarding data storage, recovery, and deletion should be directed to:
 
-Proctorio, Inc.
-Attn: Data Team
-160 Greentree Drive
-Suite 101
-Dover, DE 19904
-Email: data@proctorio.com
+Proctor.io Incorporated
+6840 E. Indian School Road
+Scottsdale, Arizona 85251
+Email: dpo@proctorio.com
 
 Proctorio understands that continuous employee awareness and understanding is vital to the continued compliance of the GDPR and we have involved our employees in our preparation plans. We have implemented an employee training program specific to the GDPR which will be provided to all employees prior to May 25th, 2018, and forms part of our induction and annual training programs.
 
