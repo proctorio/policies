@@ -1,0 +1,57 @@
+Service Level Performance Standarards.
+
+Proctor.io Incorporated ("Company") and the Customer on the corresponding Software-As-A-Service Agreement ("SaaS Agreement") agree to abide by these Service Level Performance Standards ("Standards"), which hereby incorporate the Terms of Use (which also includes SaaS Terms definitions), Privacy Policy, and SaaS Agreement. 
+These Standards are meant to further explain the terms and services provided in the SaaS Agreement, and thus, only apply if Customer has entered into a SaaS Agreement with Company. To the extent there are any inconsistencies between these Standards and the SaaS Agreement, the SaaS Agreement shall prevail. These Standards shall terminate upon the termination of the SaaS Agreement.
+
+1. Definitions.
+The following terms in these Standards, unless otherwise defined in the Terms of Use, shall mean:
+1.1 "System Uptime" the total amount of time during any calendar month, measured in minutes, during which Customer has the ability to access the features and functions of the Application Service as herein contemplated.
+1.2 "Scheduled Downtime" the total amount of time during any calendar month, measured in minutes, during which Customer is not able to access the Application Service, as hosted by Company, due to planned system maintenance performed by Company, as set forth in the table below. Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 7:00 PM and 6:00 AM Pacific Standard Time. Company reserves the right to change the aggregated times set forth in the table below, provided that Company provides reasonable prior notice prior to modifying such Scheduled Downtime.
+
+When ScheduledDowntime will occur on a regular basis:
+Purpose of Scheduled Downtime:
+Maximum Duration of Scheduled Downtime:
+
+Each Weekend
+system maintenance
+2 hours
+
+Each Weekend
+database maintenance
+1 hour
+
+Once per calendar month
+application/OS maintenance
+6 hours
+
+Once per calendar quarter
+system maintenance/upgrades
+3 hours per server
+
+1.3 "Unscheduled Downtime" the total amount of time during any calendar month, measured in minutes, during which the Customer is not able to access the features and functions of the Application Service as contemplated in these Standards, other than Scheduled Downtime.
+1.4 "System Availability" with respect to any particular calendar month, the ratio obtained by subtracting Unscheduled Downtime during such month from the total time during such month (which includes all minutes in the relevant calendar month, if they are included within these Standards) and thereafter dividing the difference so obtained by the total time during such month.
+
+2. Customer Requirements.
+2.1 Minimum System: These Standards are only applicable if Customer and its Authorized End Users, as applicable, meet the minimum system standards as set forth here https://proctorio.com/system-requirements, which the Company may update from time to time upon written notice to Customer.
+2.2 Additional Customer Obligations: Customer is responsible for maintenance and management of its computer network(s), servers, software, and maintenance and management of related equipment or services. Customer is responsible for correctly configuring its systems according to the Company's instructions, if provided, to ensure access to the features and functions of the Application Service.
+2.3 Reporting of Unscheduled Downtime: Customer must promptly notify Company if Unscheduled Downtime occurs. Unscheduled Downtime begins on the earlier of when Company receives accurate notification from Customer, or when Company first becomes aware of it.
+2.4 Customer's Non-Performance: Company's obligations in these Standards will be excused if any failures result in whole or in part from Customer's or its End Users' failure(s) to meet their obligations.
+
+3. Performance
+3.1 System Availability: Company will undertake commercially reasonable measures to ensure that System Availability equals or exceeds 99.7% during each calendar month (the "Service Standard"), provided that any Unscheduled Downtime occurring as a result of (i) Customer's breach of any provision of these Standards; (ii) non-compliance by Customer with any provision of these Standards; (iii) incompatibility of Customer's or Authorized End User's equipment or software with the Application Service; (iv) performance of Customer's systems or the Internet; (v) modifications or updates by third party manufacturers/licensors to systems or software that interact with the Application Service; (vi) a Service Suspension, or (vii) force majeure, as defined in the Terms of Use, shall not be considered toward any reduction in System Availability measurements.
+3.2 Bandwidth Availability: Company monitors the aggregate packet loss and transmission latency within its LAN and WAN. Company does not monitor the packet loss or transmission latency of specific Customers. After discovering or being notified by Customer of packet loss in excess of one-half percent (0.5%), Company will use commercially reasonable efforts to determine the source of such excess packet loss or latency and to correct such problem to the extent that the source of the problem is on the Company Network.
+3.3 Access to Support; Response Times: Customer may report Unscheduled Downtime at any time ("24x7x365") by telephoning Company using the numbers listed here https://proctorio.com/about. Company will exercise commercially reasonable efforts to initiate remedial activity within 30 minutes of each report of Unscheduled Downtime during business hours (7:00AM to 6:00 PM Pacific Time, Monday through Friday, excluding Company holidays) for issues affecting connectivity and server availability. During non-business Hours, Company will initiate remedial activity within two (2) hours for issues affecting connectivity and server availability. In contacting the Company, Customer must not leave voice messages. Phone numbers should be called in priority order until a Company representative is reached directly.
+3.4 Service Suspension. Company may temporarily suspend Customer's and any Authorized End User's access to any portion of, or all of the Application IP if (i) Company reasonably determines that (a) there is a threat or attack on any of the Application IP; (b) Customer's or any Authorized End User's use of the Application IP disrupts or poses a security risk to the Application IP or any of Company's customers or vendors; (c) Customer or any Authorized End User(s) is/are using the Application IP for illegal activities; (d) subject to applicable law, Customer has ceased to continue its business in the ordinary course, made an assignment for the benefit of creditors or similar disposition of its assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding; (e) applicable law prohibits Company's provision of the Application Service to Customer or any Authorized End User; or (f) Company's vendor has suspended or terminated Company's access to or use of any third party services or products required for Customer to access the Application IP (each such suspension, in a "Service Suspension"). Company will make commercially reasonable efforts to provide Customer notice of any Service Suspension (including notices sent to Company's registered email address) and to provide access updates following any Service Suspension. Company will use commercially reasonable efforts to provide access to the Application Service as soon as reasonably possible after curing the Service Suspension. Company is not liable for any damage, liabilities, or losses that Customer or any Authorized User may incur from a Service Suspension.
+
+4. System Monitoring.
+Company uses network monitoring software and other related software tools.
+
+5. Measurement and Reports.
+Company will provide for monitoring of System Availability on an ongoing basis. All measurements of System Availability will be calculated on a monthly basis for each calendar month during the Term, as set forth in the SaaS Agreement.
+
+6. Remedies.
+6.1 Credits Against Fees: In the event Unscheduled Downtime occurs, Customer will be entitled to credits against its subsequent payment obligations (as set forth in these Standards) according to the following: The network of computers will have a guaranteed aggregate average uptime of 99.7% over the course of three (3) months. This does not include scheduled downtime for maintenance on servers, which will be minimal, and necessary. This also does not include mass-network problems such as major backbone problems. For every 1.0% of Unscheduled Downtime below the Service Standard that Company experiences during a calendar month, a credit of 5% of 1/12th of Customer's annual Fees paid by Customer will be credited to Customer's account, up to a maximum of 50% of 1/12 of the applicable annual Fees paid by Customer. Customer must submit full documentation by e-mail to Company with the credit request. Documentation must show details of proof of downtime. These can be in any manner including pings, trace routes, and third-party outage notifications for the past three (3) months. E-mails without full details are not liable for a credit. Company will not be liable for any lost revenues during down time. Except as set forth in the following Section 6.2, the Customer's rights under this Section 6.1 are Customer's sole and exclusive remedy with respect to any Unscheduled Downtime or any failure by Company to meet the Service Standard required by Section 3.1.
+6.2 Termination for Performance Deficiencies: Company acknowledges that System Availability is important to Customer's business processes. Accordingly, Customer may exercise its rights to terminate these Standards if (i) Company fails to meet the Service Standard three (3) or more times during any twelve (12)-month period; (ii) System Availability for any single calendar month falls below 98%; or (iii) Company does not respond within 90 minutes to Customer reports of Unscheduled Downtime with respect to 50% or more of such reports during any twelve (12)-month period. Notwithstanding the foregoing, no material breach of these Standards will be deemed to occur if Company fails to meet the Service Standard less than three (3) times in any twelve (12)-month period provided no such failure causes System Availability to fall below 90% during the relevant calendar month.
+
+7. Changes.
+Company may change these Standards from time to time. To ensure you are aware of all updates, please check these Standards periodically for updates and subscribe to receive update notifications from us on GitHub.
