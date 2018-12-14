@@ -1,4 +1,4 @@
-Service Level Performance Standarards.
+Service Level Performance Standards.
 
 Proctor.io Incorporated ("Company") and the Customer on the corresponding Software-As-A-Service Agreement ("SaaS Agreement") agree to abide by these Service Level Performance Standards ("Standards"), which hereby incorporate the Terms of Use (which also includes SaaS Terms definitions), Privacy Policy, and SaaS Agreement. 
 These Standards are meant to further explain the terms and services provided in the SaaS Agreement, and thus, only apply if Customer has entered into a SaaS Agreement with Company. To the extent there are any inconsistencies between these Standards and the SaaS Agreement, the SaaS Agreement shall prevail. These Standards shall terminate upon the termination of the SaaS Agreement.
@@ -8,7 +8,7 @@ The following terms in these Standards, unless otherwise defined in the Terms of
 1.1 "System Uptime" the total amount of time during any calendar month, measured in minutes, during which Customer has the ability to access the features and functions of the Application Service as herein contemplated.
 1.2 "Scheduled Downtime" the total amount of time during any calendar month, measured in minutes, during which Customer is not able to access the Application Service, as hosted by Company, due to planned system maintenance performed by Company, as set forth in the table below. Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 7:00 PM and 6:00 AM Pacific Standard Time. Company reserves the right to change the aggregated times set forth in the table below, provided that Company provides reasonable prior notice prior to modifying such Scheduled Downtime.
 
-When ScheduledDowntime will occur on a regular basis:
+When Scheduled Downtime will occur on a regular basis:
 Purpose of Scheduled Downtime:
 Maximum Duration of Scheduled Downtime:
 
