@@ -99,7 +99,7 @@ Contact procedures for individuals to ask questions or learn additional informat
 If Proctorio determines individuals or institutions should be notified urgently of a breach because of possible imminent misuse of unsecured Personally Identifiable Information, Proctorio may, in addition to providing notice as outlined above, contact the individual or institution by telephone or other means, as appropriate.
 
 California Privacy Rights.
-California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please email privacy@proctorio.com.    
+Proctorio does not provide your Personal Information to any third parties for direct marketing purposes as defined in California Civil Code Section § 1798.83. Please contact us at privacy@proctorio.com for any questions regarding your Personal Information.
 
 EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.
 Note: Proctorio adheres to EU General Data Protection Regulation ("GDPR"). Refer to our GDPR page here here https://proctorio.com/gdpr for more information.
