@@ -31,7 +31,7 @@ Student name
 Campus e-mail address
 College or school
 
-Despite not collecting any personally identifiable information, all employees are subject to frequent and thorough FERPA training. Any personal information requests beyond this should be reported to ferpa@proctorio.com.
+Despite not collecting any personally identifiable information, all employees are subject to frequent and thorough FERPA training. Any personal information requests beyond this should be reported to privacy@proctorio.com.
 
 How is Proctorio different?
 Other technologies require the student to create accounts on their platform, enter credit card information on their platform, and will store unencrypted video on their platform. This information is all categorized as personally identifiable information or as an education record and, therefore, falls under the jurisdiction of FERPA. Any breach of this data could result in the loss of Title IV funding for institutions who have contracted the third party.
