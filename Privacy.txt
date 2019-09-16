@@ -1,4 +1,4 @@
-Privacy Policy.
+﻿Privacy Policy.
 
 Proctorio ("we," "our," "us") provides services to users throughout the world and thanks you for visiting proctorio.com, our Internet website ("Site"). If you use our services in the United States, Proctor.io Incorporated (a Delaware corporation) is the data processor for your information. If you use our services anywhere else, Proctorio d.o.o. (a European corporation) is the data processor. This privacy Policy ("Privacy Policy") details Proctorio's use of Personally Identifiable Information (as defined below) about users of our Services.
 
@@ -120,9 +120,7 @@ If Proctorio determines individuals or an Institution should be notified urgentl
 Note: Proctorio does not store any unencrypted education records.
 
 California Privacy Rights. 
-California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please email privacy@proctorio.com.
-
-AB 1584 is a California law that defines student and educational agencies rights with regard to pupil records. Proctorio maintains compliance with AB 1584 as described in this Privacy Policy and as described in, as applicable, a SAAS with California Institution(s).
+Proctorio does not provide your Personal Information to any third parties for direct marketing purposes as defined in California Civil Code Section § 1798.83. Please contact us at privacy@proctorio.com for any questions regarding your Personal Information.
 
 Users from Outside of the United States.
 General: By using the Services you acknowledge and agree that: (i) your information will be processed as described in this Privacy Policy; and (ii) you consent to have your information transferred to us and our facilities in the United States or elsewhere, including those of third parties as described in this policy.
