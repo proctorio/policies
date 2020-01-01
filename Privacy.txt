@@ -120,7 +120,16 @@ If Proctorio determines individuals or an Institution should be notified urgentl
 Note: Proctorio does not store any unencrypted education records.
 
 California Privacy Rights. 
-Proctorio does not provide your Personal Information to any third parties for direct marketing purposes as defined in California Civil Code Section § 1798.83. Please contact us at privacy@proctorio.com for any questions regarding your Personal Information.
+Proctorio does not provide your Personal Information to any third parties for direct marketing purposes as defined in California Civil Code Section § 1798.83. Please contact us at privacy@proctorio.com for any questions regarding your Personal Information. 
+AB 1584 is a California law that defines student and educational agencies rights regarding student records.  We comply with AB 1584 as described in this Privacy Statement and as applicable, any agreements with California Institution(s).
+
+If you are a resident of California, you have other rights under the California Consumer Privacy Act (“CCPA”):
+Right of Access: You can access your collected personal information by contacting us at privacy@proctorio.com. 
+Right to correct, update, or delete: You can correct, update or request deletion of your personal information by contacting us at privacy@proctorio.com. We can’t make changes to or delete your information in some situations where it is necessary for us to maintain your information, for example if we need the information to comply with applicable law.
+Right to Request Disclosure of Information Collected: Please contact us at privacy@proctorio.com to request further information about the categories of personal information we have collected about you, where we collected your personal information, and for what purpose we use your personal information.
+Right to Disclosure of Information Sold and Right to Opt-Out: You have the right to know what information of yours we have sold, and you have the right to opt-out of any sale of your information. We do not sell any of your information.  If you have any questions about these rights, please contact us at privacy@proctorio.com. 
+Right to Non-Discrimination: We do not and will not discriminate against you if you exercise your rights under the CCPA.
+When you contact us regarding any of your rights under the CCPA, we will verify your identity before we provide any information. If you have any questions or comments about your rights under the CCPA, please contact us at privacy@proctorio.com.
 
 Users from Outside of the United States.
 General: By using the Services you acknowledge and agree that: (i) your information will be processed as described in this Privacy Policy; and (ii) you consent to have your information transferred to us and our facilities in the United States or elsewhere, including those of third parties as described in this policy.
