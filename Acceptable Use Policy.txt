@@ -1,0 +1,70 @@
+﻿Acceptable Use Policy “AUP”
+This Acceptable Use Policy (this “AUP”) is incorporated into and made a part of the Terms of Service (the “Terms”) that govern the use of Proctorio’s Services. Capitalized terms used in this AUP that are not otherwise defined have the meanings given in the Terms and in the applicable SaaS Agreement between Proctorio and the Institution (“Your SaaS Agreement”). This AUP applies to and is binding upon all Authorized Users and, unless Your SaaS Agreement provides otherwise, applies to and is binding upon You as an Institution. The terms in this AUP are in addition to Your obligations under the Terms and, if applicable, under Your SaaS Agreement, and the terms in this AUP do not limit, modify, reduce, or eliminate any of Your other obligations.
+This AUP may be changed or modified at any time by posting a revised version on this page and noting the date of last update, at which time any changes become immediately effective. If You wish to be made aware of updates to these Terms, You may check for updates and subscribe to receive update notifications from Us on GitHub.
+Institutions and their representatives are prohibited from making any negative decisions regarding exam integrity or from imposing any other negative consequence or detriment on an End User based partly or entirely on Proctorio’s analysis.  Institutions and their representatives must conduct their own independent, non-automated review, and analysis of any relevant data (including any available audio, video, screen recordings or images that were the subject of Proctorio’s analysis or that the Institution otherwise deems relevant) prior to imposing any such negative consequence or detriment.
+Last modified July 31, 2021.
+
+1. Terms Applicable to All Users 
+The following terms apply to Institutions, Institution Users and End Users (collectively, “You”): 
+You agree to use the Services solely for their intended purpose and in strict compliance with (i) the Terms, Your SaaS Agreement (if applicable), and this AUP, (ii) all applicable laws, rules, and regulations, and (iii) all policies, procedures, and requirements of the Institution through which You are accessing the Services. You agree to pay for all royalties, fees, and other payments owed to any party by reason of Your submitting, posting, or displaying any Content that is owned or controlled by third parties.
+In addition, in Your use of the Services, You further agree that You will not, directly or indirectly:
+
+* use the Services for any purpose other than for using the features Proctorio intentionally makes available to You;
+* use the Services to stalk, threaten, harass, harm, or bully others;
+* use the Services to harm, exploit, or abuse minors in any way;
+* use the Services to support activity that constitutes unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation;
+* use the Services to support activity that allows computer hardware or software to be interrupted, destroyed, or functionally limited as a result of software viruses or any other computer code, files, or programs;
+* post or transmit any worms, viruses, or other harmful, disruptive, or destructive files, code, or programs to the Services;
+* use the Services to support activity that allows You to modify, adapt, hack or otherwise attempt to gain unauthorized access to the Services or servers, networks, systems, or other devices connected to the Services;
+* use the Services to support activity that would constitute a violation of applicable local, state, national, or international law, including any data privacy or export or import control laws;
+* provide false personal information or create an account for anyone other than Yourself without permission;
+* create another account without Proctorio’s permission, if Proctorio has disabled Your account;
+* share Your password, let anyone else access Your account, or do anything else that might jeopardize the security of Your account;
+* assign or transfer Your account or log-in information to anyone;
+* impersonate or misrepresent any person or entity or Your affiliation with any individual, entity or institution;       
+* use the Services in any manner that could damage, disable, overburden, or impair the Services or interfere with any other party’s use of the Services;
+* use web crawlers, web robots, web scutters, ants, automatic indexers, bots, worms, and other such devices in connection with the Services;
+* obtain or attempt to obtain any Content through any means not intentionally made available or provided for through the Services; or
+* facilitate gambling, gaming, raffles, lotteries, sweepstakes, and/or any other activity featuring the award of a prize.
+To the extent You are permitted to submit, post, or display Content through the Services, You represent, warrant, and agree that You will not, directly or indirectly:
+* submit, post, or display any Content that is threatening, abusive, harassing, harmful, violent, tortious, defamatory, libelous, invasive of another’s privacy, profane, discriminatory, offensive (including hate speech), intimidating, disruptive, or otherwise objectionable;
+* submit, post, or display any Content that is false, misleading, unlawful, infringing, threatening, abusive, harassing, libelous, defamatory, discriminatory, obscene, offensive, inflammatory, scandalous, pornographic, or profane or any material that could constitute or encourage conduct that would be considered a criminal offense, give rise to civil liability, or otherwise violate the law;
+* submit, post, or display Content that misappropriates a trade secret or that violates or infringes the intellectual property rights and other proprietary rights of third parties, including privacy and publicity rights; or
+* transmit, submit, or post material that is otherwise offensive or inappropriate.
+
+Proctorio also reserves sole discretion to decide whether any of Your Content is appropriate and complies with this AUP.
+
+2. Terms Applicable to Institution Users.
+The following terms apply to Institution Users who are responsible for administering assessments, evaluations, or assignments that will be accessed by End Users using the Services, including but not limited to such Institution Users who design such assessments, evaluations, or assignments, establish procedures and protocols for the conducting of such assessments, evaluations, or assignments, proctor such assessments, evaluations, or assignments, and/or review and resolve issues arising from such assessments, evaluations, or assignments.
+In addition to all other terms applicable to Institution Users under this AUP, to the extent applicable to Institution User role and responsibilities, Institution User agrees to administer all assessments, evaluations, or assignments that are accessed using the Services in a manner that (i) complies with all policies, procedures, and requirements of the Institution through which the End Users are provided access to the Services and (ii) is reasonable and fair under the circumstances. Institution User represents and warrants that Institution User has completed all training reasonably required to perform such duties in a manner consistent with the policies, procedures, and requirements of Institution User’s Institution and in compliance with this AUP.  Prior to performing such duties, Institution User agrees to review Proctorio’s exam administrator training modules (https://proctorio.academy).
+In Institution User’s use of the Services, Institution User further agree that Institution User will not, directly or indirectly:
+
+* administer assessments, evaluations, or assignments in a manner that violates the policies, procedures, and requirements established by the applicable Institution;
+* utilize the tools made available through the Services in an unnecessarily intrusive manner (e.g., by conducting excessive desk and/or room scans);
+* condition the use of the Service by End Users on the purchase of additional software or services, unless expressly required by the applicable Institution;
+* access exam recordings or other data collected through the Services that identifies End Users for any reason unrelated to the administration of assessments, evaluations, or assignments or in violation of the applicable Institution’s policies, procedures, and requirements;
+* circumvent digital rights management (DRM) protections on the exam recordings, including but not limited to downloading or attempting to download the recordings when not authorized to do so; or
+* communicate with or attempt to communicate with End Users for any purpose unrelated to the administration of assessments, evaluations, or assignments.
+
+3. Terms Applicable to END USERS.
+The following terms apply to End Users (Test Takers).
+In addition to all of the other terms applicable to End Users under this AUP, End User agrees to use the Application Service to complete End User’s assessments, evaluations, or assignments in a manner that complies with all policies, procedures, and requirements of the Institution through which End User is accessing the Services. Prior to using the Services for such purposes, End User agrees to complete all training modules recommended or required by End User’s Institution relating to the use of the Services.
+In End User’s use of the Services, unless expressly permitted by an authorized representative of End User’s Institution, End User further agrees that End User will not, directly or indirectly:
+
+* utilize or access any unpermitted study aid or information while taking an assessment, evaluation, or assignment;
+* permit any other person to take a assessment, evaluation, and/or assignment on End User’s behalf unless expressly permitted by the Institution conducting such assessment, evaluation, or assignment
+* impersonate another end user and/or take a assessment, evaluation, or assignment by utilizing the credentials of another end user;
+* access the Services to alter or manipulate the results of any assessment, evaluation, or assignment; or
+* access exam recordings or other data collected through the Services that identifies other end users.
+
+4. Terms Applicable to Institutions. 
+The following terms apply to Institutions.
+In addition to all other terms applicable to Institution under this AUP (but subject to any different terms in Your SaaS Agreement), Institution agrees to establish, implement, maintain, and enforce policies, procedures, and requirements designed to ensure that the Use of the Services by Authorized Users who receive access to the Services through Institution comply with all applicable laws, rules, and regulations, and the Institution’s policies and procedures. Such policies and procedures shall, at minimum: (i) permit assessment environments that are flexible and provide reasonable accommodation for End Users with varying abilities, (ii) permit assessment procedures that provide reasonable accommodations for the religious practices of Authorized Users, (iii) establish reasonable test-taker identification processes that minimize the disclosure of personal information, (iv) establish reasonable processes that limit access to exam recordings and other data collected through the Services by role and responsibility, and (v) establish reasonable data retention and destruction policies that comply with all applicable laws, rules, and regulations.
+Institution agrees to require all  Institution Users  who will administer assessments, evaluations, or assignments to undergo regular training relating to the appropriate use of the Services, including proper identification of activities that require further escalation and review. Institution is responsible for maintaining all records of encryption keys.
+In Institution’s use of the Services, Institution further agree that Institution will not, directly or indirectly:
+
+* knowingly permit Institution Users to access exam recordings or other data collected through the Services that identify End Users for any unpermitted purpose or knowingly retain such exam recordings and data longer than is required by applicable law; or
+* knowingly permit Authorized  Users to use the Services in violation of this AUP.
+
+5. Users Who Violate the AUP.
+Without limiting Proctorio’s rights and remedies, Proctorio may, at its sole discretion, disable or terminate the accounts of any Authorized End Users who violate this AUP.  In the event that any internal investigation of conduct results in the discovery of facts that indicate the possibility of illegal activity, Proctorio will report such facts to the relevant external regulatory and/or governmental agencies for independent investigation.
