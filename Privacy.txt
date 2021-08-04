@@ -1,17 +1,18 @@
 ﻿Privacy Policy
 
-Collecting Personal Information
+Collecting Personal information
+
 * Proctorio limits the Personal Information collected from end-users through their use of Proctorio’s Services. 
 * Proctorio only collects Personal Information as instructed by your Institution. This is dependent on the Services and settings selected by the relevant Institution-approved representatives.
 * Proctorio pseudoanonymizes specific test-taker Personal Information.
 * Audio, video, and screen recordings and images collected and stored by Proctorio are encrypted and can only be decrypted by Institution-approved representatives. 
 * If you voluntarily provide Personal Information through Proctorio’s Sites or Services, Proctorio may retain this Information.
 
-Proctorio’s Institution Services: When an Institution purchases Proctorio’s Service(s), the type of Service and settings selected by the Institution determine what Personal Information an Institution may provide to Proctorio or what Proctorio can collect from the test taker. This is described in more detail below.
-Test-taker audio, video, and screen recordings and images received from Institutions and processed by Proctorio are end-to-end encrypted and can only be decrypted by Institution-approved representatives. 
+Proctorio’s Institution Services: When an Institution purchases Proctorio’s Service(s), the type of Service and settings selected by the Institution determine what Personal Information an Institution may provide to Proctorio or what Proctorio can collect from the test taker. This is described in more detail below.  
+Test-taker audio, video, and screen recordings and images received from Institutions and processed by Proctorio are end-to-end encrypted and can only be decrypted by Institution-approved representatives.  
 
 Proctoring
-Only an Institution may request Proctorio to use Automated or Live Proctoring during the administration of an exam.
+Only an Institution may request Proctorio to use Automated or Live Proctoring during the administration of an exam. 
 With either Automated or Live Proctoring, an exam administrator may instruct Proctorio to monitor test takers via a webcam, microphone, browser, and/or desktop in an effort to uphold the integrity of the assessment. This may include a scan of the test taker’s surroundings, screen, and computer display. This monitoring will either be automated and/or conducted by a live proctor. The test taker will be notified, before the beginning of an exam, whether Automated or Live Proctoring is being used.
 
 Video and audio recording
@@ -28,9 +29,11 @@ Facial and gaze detection
 If your Institution elects to use Proctorio's proctoring Services that enable video recording, Proctorio uses facial detection or gaze detection to flag potentially suspicious test activity to help Institution-approved representatives maintain assessment integrity. The Institution may choose to disable facial detection and gaze detection as a secondary setting of the video recording feature if It wishes to opt out of facial detection and gaze detection, but still record the exam session.
 Proctorio does not use what is conventionally known as “biometrics” or “facial recognition” technology. Facial recognition uniquely identifies specific people by assessing whether the face in one image matches the face in another image. It requires a database of either images of people’s faces, or biometric representations of them, and technology that compares new images or biometric representations with entries in that database. 
 Instead, Proctorio uses “facial detection” or “gaze detection” technology. A fundamental difference between these technologies and biometrics or facial recognition technology is that facial or gaze detection technologies do not use geometry or landmarks as identifiers. Additionally this difference, can be illustrated by the questions they answer:
+
 Facial Recognition: “Does the face in this picture match the face in this other picture?”
 Facial Detection: “Is there a face in this picture?”
 Gaze Detection: “Is the person looking away from the camera or the exam screen?”
+
 Facial detection can identify that there is a human face present in an image or video recording, but it cannot identify that person – only that there is, indeed, a person in the image or recording. 
 Gaze detection can determine the direction that the individual is looking, but cannot identify who they are or what they are looking at.
 If the exam administrator enables the use of video recording, Proctorio uses facial detection to flag video evidence that may indicate the number of individuals present within the immediate vicinity of the test taker, but Proctorio does not attempt to determine who those individuals are.
@@ -47,7 +50,7 @@ Proctorio does not make any decisions related to the test taker from flagged act
 
 ID Verification
 Additionally, an Institution may select an option to verify the test taker’s identity before they start their exam. The Institution can choose the Live ID Verification or the Automated ID Verification option. In both options, the Personal Information that is collected may include name, government ID number, and date of birth if the test taker chooses to utilize their government-issued ID or the Institution requires the test taker to use the government-issued ID to validate their identity. 
-This ID image along with other test-taker audio, video, and screen recordings and images are stored with Zero-Knowledge Encryption by Proctorio as described below:
+This ID image along with other test-taker audio, video, and screen recordings and images are stored with Zero-Knowledge Encryption by Proctorio as described below.
 
 Live ID
 If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. Additionally, during the pre-checks a Proctorio proctor will request to see the Institution-accepted form of ID and will record this information. A proctor cannot personally store or use this information other than to verify the test taker’s identity. 
@@ -62,7 +65,7 @@ If an Institution selects Proctorio's Originality Verification tool, the test ta
 Lock Down Settings
 If these settings are selected by an Institution and enabled on an assessment that uses Proctorio's Services, these features can be used instead of or alongside the monitoring features described above.
 Depending on which features are selected by an Institution, the test taker’s device will be locked down so that they cannot access websites, files, or other online or device resources. The test takers will be prevented from downloading materials or entering information that doesn’t relate to the exam only during the exam session. This is done to help ensure test integrity. 
-When operating as a browser extension, Proctorio, and the Lock Down settings, operate a browser extension only. Proctorio only has sandboxed or restricted access to a test taker’s computer system. This includes no access to any personal documents or files stored on the machine. 
+When operating as a browser extension, Proctorio only has restricted access to a test taker’s computer system. This includes no access to any personal documents or files stored on the machine. 
 Users have the ability to disable the Proctorio extension immediately after an exam is submitted.
 Although it is not necessary to do so, test takers can uninstall or disable Proctorio immediately after taking an exam, and re-install or enable it only when taking future Proctorio-proctored exams.
 Test takers can understand when Proctorio is running, through the exam entering process, when the Proctorio shield icon in the upper-right-hand corner of the browser turns green, and during exam review. 
@@ -71,28 +74,20 @@ Lock Down settings include the following, and exam administrators can choose to 
 
 Lock Down permissions and Settings 
 Here are more details on the which Browser Permissions can be required by an Institution and why these Browser Permissions might be required: 
-
 Read and change data on the websites you visit
 This allows Proctorio to run on each and every website required by your exam administrator or Institution without requiring additional permissions. 
-
 Display notifications
 Proctorio may display a pop-up notification while you are in the exam if you navigate away from the exam. This notification states that you are required to return to the exam window.
-
 Modify data your copy and paste functionality 
 The Proctorio platform’s functionality does not include the ability to read or collect the contents in the test taker's clipboard. Instead, during the exam, Proctorio replaces the clipboard text with Proctorio's own content to prevent exam content distribution.
-
 Capture content from your screen
 This recording setting only runs during the exam and exam review. This ensures that test takers are remaining within the exam and showing their work with authorized tools and resources. 
-
 Manage your downloads
 Downloads by a test taker will be prevented only during the course of the exam. This ensures that exam content is not shared externally. 
-
 Identify storage devices
 Test-taker storage devices are detected and identified during the exam. Proctorio does not eject storage devices. 
-
 Manage your apps, extensions, and themes
 Proctorio does not manage the themes of a test taker’s device. But Proctorio does manage extensions and applications that may hinder Proctorio from operating properly.
-
 Change your privacy-related settings
 Proctorio uses this to temporarily block the test taker’s browser "password" fill option during the course of the exam.
 
@@ -111,7 +106,7 @@ Information collected from Institution-approved representatives
 The sections below describe Personal Information that may be collected from an Institution-approved representative.
 
 Secure Exam Proctor administration - Institution registrations
-To register an Institution to use the Proctorio Secure Exam Proctor solution, an administrator account must be created. To register an account for your institution, an Institution-approved representative must provide Personal Information, such as:
+To register an Institution to use the Proctorio’s suite of services an administrator account must be created. To register an account for your institution, an Institution-approved representative must provide Personal Information, such as:
 
 * Institution-approved representative’s name
 * Phone number 
@@ -119,8 +114,7 @@ To register an Institution to use the Proctorio Secure Exam Proctor solution, an
 * Campus email address
 
 Request for demo
-For Institution-approved representative to request a demonstration of the Proctorio Secure Exam Proctor solution, you must provide Personal Information such as:
-
+For Institution-approved representative to request a demonstration of the Proctorio Services, you must provide Personal Information such as:
 * Institution-approved representative’s name
 * Phone number 
 * Institution name 
@@ -132,7 +126,7 @@ An Institution-approved representative can generally utilize Secure Exam Proctor
 
 * Audio Recordings
 * Video Recordings
-* Face Detection
+* Facial Detection
 * Gaze Detection
 * Information on test taker computer screen
 * Websites visited during the exam session
@@ -143,7 +137,6 @@ To contact technical support, Personal Information such as:
 * Institution-approved representative’s name
 * Phone number
 * Email address
-
 
 may be collected from an Institution-approved representative to facilitate the troubleshooting process. 
 Disclosure of such information by an exam administrator is voluntary and will not be sold to third parties. 
@@ -207,7 +200,7 @@ Some Institutions may require the test taker to pay for the Services. In those i
 * User agent
 * Email address - to receive a digital receipt
 
-Customer accounts and payments  
+Customer accounts and payments 
 Proctorio may also collect Personal Information from Institution-approved representatives using Proctorio's Services to verify business information, establish customer accounts, and to process payments. Proctorio may collect financial information from potential customers to process Proctorio's customer payments, such as: 
 
 * Business name or Business representative
@@ -226,7 +219,6 @@ Sometimes Institution-approved representatives may pay for the Services with a c
 * Email address - to receive a digital receipt
 
 Using your Information
-
 * Proctorio's use of Personal Information depends on whether we are processing Information for an Institution or if an individual provides Personal Information to us directly or visits Proctorio's Sites.
 
 As a data processor 
@@ -241,7 +233,7 @@ Please remember an Institution decides which of Proctorio's products or Services
 * Registering an Institution
 * Administrative account creation
 * Institution assessment platform use
-* Administering the Secure Exam proctor environment
+* Administering the Secure Exam Proctor environment
 * Processing client payments and/or test taker payments
 
 Please Note: The Institution decides which of Proctorio's products or Services to use and which settings and features to enable. 
@@ -267,12 +259,10 @@ As a controller and operator of Proctorio's Site, Proctorio automatically collec
 * Proctorio also has in place website security tools and processes, including penetration testing and vulnerability scans, to better ensure Site security and protection of Information. In the event of a firewall event or other attempt that triggers a firewall rule, either active or passive, the offending IP address is recorded in its entirety and maintained in our data security tracking systems
 
 De-identified data/aggregate information
-
 For Customer Billing and Usage
 Proctorio uses de-identified information for billing and utilization analysis of Proctorio's Services. 
 
 Sharing your Information
-
 * Proctorio doesn’t sell test-taker data to third parties.
 * Proctorio doesn’t share test-taker data with third parties for any marketing purposes.
 
@@ -323,6 +313,7 @@ Olark
 Purpose: Chat support provider
 Location: USA
 Website: https://olark.com/
+
 Proctorio d.o.o
 Purpose: Sales, support and engineering
 Location: Serbia
@@ -347,7 +338,7 @@ Proctorio will update this list as Proctorio may make changes to it.
 To ensure you are aware of all updates, please periodically check for updates here. You can also subscribe to receive update notifications on GitHub.com.
 
 Marketing
-Proctorio uses search engines (Bing and Google), paid social media (LinkedIn, Twitter, and Facebook), email marketing (current and future Proctorio blog), contests (CRM info), surveys, (anonymous and/or CRM), lead generation forms (Facebook/LinkedIn) to provide marketing to Institution representatives, who have opted in to receive marketing materials.
+Proctorio uses search engines (Bing and Google), paid social media (LinkedIn, Twitter, and Facebook), email marketing (current and future Proctorio blog), contests (CRM info), surveys, (anonymous and/or CRM), lead generation forms (Facebook and LinkedIn) to provide marketing to Institution representatives, who have opted in to receive marketing materials.
 Proctorio does not market to test takers.
 
 Data transfers from Proctorio branches
@@ -402,9 +393,9 @@ Your Rights
 
 As a data processor
 Parents, legal guardians, or eligible students should contact their Institution directly if they want to access, correct, delete, export, import, request a copy, exercise other rights they may have, or if they have questions about their Personal Information. Proctorio does not have the ability to edit, revise or delete any test-taker Personal Information contained in test-taker records. We will send all requests regarding test-taker Personal Information to the respective Institution.
+
 California residents should read the CCPA Notice in this Privacy Policy for more information about their rights. 
 When Proctorio is the controller, Proctorio will respond to your request regarding your Personal Information held by Proctorio as required by applicable laws and Proctorio's legitimate business purposes. 
-
 
 US K-12 Institutions and children's privacy rights
 When Proctorio’s Services are used by an educational Institution in the classroom for an educational purpose, Proctorio is permitted by the Institution to process that student Information as a School Official and only for legitimate educational purposes authorized by the Institution. In these instances, the Institution (on behalf of the parent) provides the required consent for Proctorio to collect Personal Information of a child under 18 for this purpose as a “School Official.” Under FERPA, Institutions in the United States subject to this law must provide an annual notice to parents of third parties that are providing services under the FERPA “School Official” exception. 
@@ -414,13 +405,12 @@ COPPA
 Except for Proctorio's specific services offered to K-12 Institutions, Proctorio's Services are directed towards adults who are of the legal age to access them in their respective jurisdictions.
 If you are under the age of 13, please do not use Proctorio's Sites without explicit permission from your School Official, parent, and/or guardian. 
 By accessing and using Proctorio's Sites and Services, you represent and warrant that you are of the legal age to form a binding contract with Proctorio in your respective jurisdiction and that you meet the foregoing eligibility requirements. If you do not meet these requirements, you must not access or use Proctorio's Sites or Services. If Proctorio learns Proctorio has collected or received Personal Information from an individual who was ineligible to access or use the Sites or Services, Proctorio will take steps to remove such Information. If you believe Proctorio might have any Information from or about a user who is ineligible to use the Sites or Services, please contact privacy@proctorio.com. 
-
-California privacy rights
+California privacy rights (ALL_USERS - US - ALL) 
 Proctorio does not sell your Personal Information to any third parties for direct marketing purposes as defined in California Civil Code Section § 1798.83.
 Please contact privacy@proctorio.com for any questions regarding your Personal Information. 
 Proctorio does not sell Personal Information to third parties.
 Proctorio does not market to test takers and does not permit any third-party marketing to them.
-Proctorio uses Zero-Knowledge Encryption, so only IInstitution-approved representatives can decrypt and review encrypted exam recordings.
+Proctorio uses Zero-Knowledge Encryption, so only Institution-approved representatives can decrypt and review encrypted exam recordings.
 
 CCPA notice
 The following disclosures are made pursuant to the California Consumer Privacy Act of 2018 (“CCPA”). These disclosures supplement any privacy notices Proctorio has provided to you. In Proctorio's Privacy Policy, Proctorio describes the categories of Personal Information Proctorio has collected from California consumers over the past twelve (12) months, the categories of sources from which the Information was collected, the business or commercial purpose for which the Information was collected, and the categories of third parties with whom it has been shared. Proctorio will not collect additional categories of Personal Information or use the Personal Information Proctorio collected for materially different, unrelated, or incompatible purposes without providing you notice. 
@@ -441,10 +431,10 @@ If you are a resident of California, you have other rights under the CCPA as fol
 * Right to Non-Discrimination: Proctorio does not and will not discriminate against you if you exercise your rights under the CCPA.
 
 To exercise the rights described in this Privacy Policy, please submit a verifiable consumer request to us: 
+
 via phone: Toll Free +1 866 948 9087
 via email: privacy@proctorio.com 
 Only you, or someone legally authorized to act on your behalf and registered with the California Secretary of State, may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
-
 1. Provide sufficient information that allows Proctorio to reasonably verify you are the person about whom Proctorio collected Personal Information or an authorized representative, which may include the user’s:
    a. First name
    b. Last name
@@ -463,6 +453,7 @@ Proctorio reserves the right to amend this CCPA privacy notice at Proctorio's di
 Contact Proctorio
 When you contact Proctorio regarding any of your rights under the CCPA, Proctorio will verify your identity before Proctorio provides any information. You may contact Proctorio through the following channels:
 via email:
+
 privacy@proctorio.com 
 
 We do not discriminate against California residents who exercise their CCPA privacy rights.
@@ -528,11 +519,10 @@ Please note that such marketing opt-out does not impact any transaction or opera
 If you have any questions or comments about this Privacy Policy, please contact Proctorio through one of Proctorio's contact channels.
 
 Protecting your Information
-
 * For test-taker Information that Proctorio processes for an Institution, Proctorio implements Zero-Knowledge Encryption, which means only Institution-approved representatives can decrypt and review encrypted exam recordings. 
 
 Security
-Proctorio employs procedural and technical security measures that are reasonably designed to help protect Proctorio's test takers’ Personal Information from loss, unauthorized access, disclosure, alteration, or destruction, which includes encryption and other security measures to help prevent unauthorized access to a test taker’s Personal Information. The data a test taker transmits as part of their use of the Institution Services ("Storage Data") is encrypted and Proctorio does not have access to test-taker Storage Data in its unencrypted form.
+Proctorio employs procedural and technical security measures that are reasonably designed to help protect Proctorio's test takers’ Personal Information from loss, unauthorized access, disclosure, alteration, or destruction, which includes encryption and other security measures to help prevent unauthorized access to a test taker’s Personal Information. The data a test taker transmits as part of their use of the Institution Services ("Storage Data") is encrypted and Proctorio does not have the decryption keys to decrypt or review test-taker Storage Data in its unencrypted form.
 Proctorio is committed to maintaining the security and confidentiality of test-taker Information. 
 Towards this end, Proctorio takes the following actions: 
 (a) Proctorio limits employee access to test-taker information to only those employees and contractors who need the information to fulfill their job responsibilities; 
@@ -546,7 +536,6 @@ Test-taker audio, video, and screen recordings and images are secured and proces
 3. All data centers are ISO 270001 certified, SOC 2 attested. 
 
 To learn more about Proctorio’s approach to data security, please see Proctorio's Data Security page.
-
 Security systems breach notification
 
 As a data processor
@@ -581,7 +570,6 @@ Proctorio retains test-taker De-Identified Data to track usage, allow Proctorio 
 
 As a data controller
 In situations when Proctorio acts as a data controller, the Personal Information provided by an individual is dependent on the Services, Site(s), or third-party applications accessed by the individual. 
-
 Retention, location, data deletion, and destruction 
 When Proctorio is the data processor, Proctorio uses a third-party cloud provider for the storage of encrypted, collected data. Data is stored in data centers requested or chosen by the partnered Institution. Institutions can choose to store the data in a data center that is geographically relevant to their location or in another, potentially further away data center. 
 Proctorio retains data only as directed by an Institution related to the Services that Proctorio provides to them. Proctorio will store and maintain Institutional data for up to 30 days after the termination of an applicable agreement, unless otherwise specified by the Institution or as required by applicable law.
@@ -589,8 +577,8 @@ Proctorio cannot and does not retain exam attempt recordings or chat transcripts
 When Proctorio is a processor for an Institution, Proctorio will direct the test taker to contact their respective Institution with any requests related to their Personal Information. 
 When Proctorio is a data controller, this data is stored in locations and for time frames dependent on the Services used or Site(s) and/or third-party application(s) accessed by the individual. 
 Proctorio retains the previously described Information only for as long as needed for Proctorio’s legitimate business purposes and as required by applicable laws, investigations, or other security matters. 
-US Test-Taker Payment Processing: Data is stored within the US by a third-party subprocessor headquartered in the US 
-US Client Payment Processing: Data is stored within the US by a third-party subprocessor headquartered in the US 
+US Test-Taker Payment Processing: Data is stored within the US by a third-party subprocessor headquartered in the US.
+US Client Payment Processing: Data is stored within the US by a third-party subprocessor headquartered in the US.
 US User and Client Support: Data is stored by a third-party subprocessor headquartered in the US and Europe.
 EU Test-Taker Payment Processing: Data is stored by a third-party subprocessor headquartered in Ireland.
 EU Client Payment Processing: Data is stored within Germany by a third-party subprocessor headquartered in Germany.
