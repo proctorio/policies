@@ -9,25 +9,21 @@ These Standards are meant to further explain the terms and services provided in 
 
 1. Definitions  
 The following terms in these Standards, unless otherwise defined in the SaaS Agreement shall mean:
-
 “System Uptime” – the total amount of time during any calendar month, measured in the minutes, during which the Customer has the ability to access the features and functions of the Application Service as herein contemplated.
 Standard process to avoid Downtimes: 
 The Company does not normally use Scheduled Downtimes, but instead performs region upgrades, using the pair region to route DNS traffic until all or nearly all the to be upgraded pair region traffic has stopped. Once the upgrade is complete in the upgrade pair, the traffic manager slowly shifts traffic back to the upgraded region. Once the automated tests have confirmed stability, the traffic manager will slowly take the other region offline and do the same. This entire process will take seventy-two (72) hours and will not result in any downtime for users. If a change is required in a Scheduled Downtime phase, it will be implemented at the times described below.
-
 “Scheduled Downtime” – Normally upgrades do not result in any downtime. However in rare cases The Company might have to utilize scheduled downtime to perform certain upgrades. Scheduled downtime is the total amount of time during the calendar month, measured in minutes, during which the Customer is not able to access the Applied Service, as hosted by Company, due to planned system maintenance performed by Company, as set forth below based on the location of your institution:
 For Institutions based in the U.S., Canada, and locations outside of the European Union, Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 06:00 and 15:00 UTC. 
 For Institutions based in the European Union, the Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 07:00 and 16:00 CET. 
 Company reserves the right to change the aggregated times set forth below, provided that Company provides at least 48  hours notice before modifying such Scheduled Downtimes. 
 Company does not normally utilize Scheduled Downtimes. Scheduled Downtime will occur no more than once per calendar month. The purpose of Scheduled Downtime is General System Maintenance. The Maximum Duration of Scheduled Downtime is 2 hours. 
-
 “Unscheduled Downtime” – the total amount of time, during any calendar month, measured in minutes, during which the Customer is not able to access the features and functions of the Application Service as contemplated in these Standards, other than Scheduled Downtime. 
-
 “System Availability” – with respect to any particular calendar month, the ratio obtained by subtracting Scheduled and Unscheduled Downtime during such month from the total time during such month (which includes all minutes in the relevant calendar month, if they are included with these Standards) and thereafter dividing the difference so obtained by the total time such month. 
 
-2. Customer Requirements  
+2. Customer Requirements   
 Minimum System – these Standards are only applicable if the Customer and it’s Authorized End Users, as applicable, meet the minimum system standards as set forth on https://proctorio.com/support/requirements, which the Company may update with written notice to the Customer. 
 Additional Customer Obligations – Customer is responsible for maintenance and management of its computer network(s), servers, software, and maintenance and management of related equipment or services. Customer is responsible for correctly configuring its systems according to the Company’s instructions, if provided, to ensure access to the features and functions of the Application Service. To allow Company to monitor Customer’s assessment platform (or other applicable platform accessing the Application Service) for system performance pursuant to Section 3.1 (iv), Customer must also provide Company with the ability to perform testing from IP address here and here at regular intervals using a user agent of:
-Proctorio-Uptime-Bot/1.0 (+https://proctorio.com/policies/#all&all&tos). 
+Proctorio-Uptime-Bot/1.0 (+https://proctorio.com/tos). 
 Reporting of Unscheduled Downtime – Customers must promptly notify the Company if Unscheduled Downtime occurs. Unscheduled Downtime begins on the earlier of when Company received accurate notification from the Customer or when Company first becomes aware of it. 
 Customer’s Non-Performance – Company’s obligations in these Standards will be excused if any failures result in whole or in part from the Customer’s or its End Users’ failure(s) to meet their obligations. 
 
@@ -64,10 +60,9 @@ Please note that the below workaround and problem solving time frames may change
 | Serious   | 15 minutes            | 120 minutes      | 5 working days                             |
 | Minor     | 15 minutes            | 240 minutes      | next upgrade / release                     |
 	
-
 Service Suspension – Company may temporarily suspend the Customer’s and any Authorized End User’s access to any portion of, or all of the Application IP if  (i) Company reasonably determines that, through any automated, manual, active or passive technology application  (a) there is a threat or attack on any of the Application IP; (b) the Customer’s or any Authorized End User’s use of the Application IP disrupts or poses a security risk to the Application IP or any of Company’s customers or vendors; (c) the Customer or any Authorized End User(s) is/are using the Application IP for illegal activities; (d) subject to applicable law, the Customer has ceased to continue its business in the ordinary course, made an assignment for the benefit of creditors or similar disposition of its assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding; (e) applicable law prohibits Company’s provision of the Application Service to the Customer or any Authorized End User; or (f) Company’s vendor has suspended or terminated Company’s access to or use of any third-party services or products required for the Customer to access the Application IP (each such suspension, in a “Service Suspension”). Company will make commercially reasonable efforts, including emailing notices to Customer’s Company-registered email address, to provide the Customer notice of any Service Suspension and to provide access to updates following any Service Suspension. Company will use commercially reasonable efforts to provide access to the Application Service as soon as reasonably possible after curing the Service Suspension. 
 
-4. System Monitoring   
+4. System Monitoring 
 Company has network monitoring software and other related software tools. 
 
 5. Measurement and Reports
@@ -78,4 +73,4 @@ Credit Against Fees - In the event Unscheduled Downtime occurs, the Customer wil
 The Customer’s rights under this Section 6 are the Customer’s sole and exclusive remedy with respect to any Unscheduled Downtime or any failure by the Company to meet the Service Standard required by Section 3. 
 
 7. Changes
-The Company may change these Standards from time to time. To ensure you are aware of all updates, please check these Standards periodically for updates and subscribe to receive update notifications from us on https://github.com/proctorio/policies.
+The Company may change these Standards from time to time. To ensure you are aware of all updates, please check these Standards periodically for updates on https://github.com/proctorio/policies.
