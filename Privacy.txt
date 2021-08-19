@@ -388,8 +388,7 @@ When a client uses the “Do Not Track” client setting, Proctorio will only lo
 
 Your Rights
 
-Some countries and/or states have their own privacy and data security laws, we do Proctorio's best to comply with each and every one of them. 
-Proctorio makes every effort to comply with CCPA, COPPA, FERPA, FIPPA, and GDPR. 
+* Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
 
 As a data processor
 Parents, legal guardians, or eligible students should contact their Institution directly if they want to access, correct, delete, export, import, request a copy, exercise other rights they may have, or if they have questions about their Personal Information. Proctorio does not have the ability to edit, revise or delete any test-taker Personal Information contained in test-taker records. We will send all requests regarding test-taker Personal Information to the respective Institution.
