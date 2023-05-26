@@ -1,6 +1,6 @@
 Service Level Agreement "SLA"
 Proctorio’s SLA provides clear uptime expectations, articulated resolution response times, as well as remedies available should Proctorio ever fall below expectations. Historically, Proctorio has maintained an uptime of greater than 99.991%, as seen publicly at: https://proctoriostatus.com. 
-Last modified October 29, 2021.
+Last modified May 26, 2023.
 
 Service Level Performance Standards
 Proctorio (“Company”) and the Customer on the corresponding Software-as-a-Service Agreement (“SaaS Agreement”) agree to abide by these Service Level Performance Standards (“Standards”) which hereby incorporate Privacy Policy and SaaS Agreement.
@@ -11,9 +11,11 @@ The following terms in these Standards, unless otherwise defined in the SaaS Agr
 “System Uptime” – the total amount of time during any calendar month, measured in the minutes, during which the Customer has the ability to access the features and functions of the Application Service as herein contemplated.
 Standard process to avoid Downtimes:
 The Company does not normally use Scheduled Downtimes, but instead performs region upgrades, using the pair region to route DNS traffic until all or nearly all the to be upgraded pair region traffic has stopped. Once the upgrade is complete in the upgrade pair, the traffic manager slowly shifts traffic back to the upgraded region. Once the automated tests have confirmed stability, the traffic manager will slowly take the other region offline and do the same. This entire process will take seventy-two (72) hours and will not result in any downtime for users. If a change is required in a Scheduled Downtime phase, it will be implemented at the times described below.
-“Scheduled Downtime” – Normally upgrades do not result in any downtime. However in rare cases The Company might have to utilize scheduled downtime to perform certain upgrades. Scheduled downtime is the total amount of time during the calendar month, measured in minutes, during which the Customer is not able to access the Applied Service, as hosted by Company, due to planned system maintenance performed by Company, as set forth below based on the location of your institution:
-For Institutions based in the U.S., Canada, and locations outside of the European Union, Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 06:00 and 15:00 UTC.
-For Institutions based in the European Union, the Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 07:00 and 16:00 CET.
+“Scheduled Downtime” – Normally upgrades do not result in any downtime. However in rare cases The Company might have to utilize scheduled downtime to perform certain upgrades. Scheduled downtime is the total amount of time during the calendar month, measured in
+minutes, during which the Customer is not able to access the Applied Service, as hosted by Company, due to planned system maintenance performed by Company, as set forth belowbased on the region selected by customer:
+For the customer whose data is stored within the America regions, the Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 01:00 am - 02:00 am UTC-6 (07:00 am - 08:00 am UTC).
+For the customer whose data is stored within the EMEA regions, the Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 01:00 am - 02:00 am UTC+1 (12:00 am - 01:00 am UTC).
+For the customer whose data is stored within the APAC regions, the Company will exercise reasonable efforts to perform scheduled system maintenance between the hours of 01:00 am - 02:00 am UTC+7 (05:00 pm - 06:00 pm UTC).
 Company reserves the right to change the aggregated times set forth below, provided that Company provides at least 48 hours notice before modifying such Scheduled Downtimes.
 Company does not normally utilize Scheduled Downtimes. Scheduled Downtime will occur no more than once per calendar month. The purpose of Scheduled Downtime is General System Maintenance. The Maximum Duration of Scheduled Downtime is 2 hours.
 “Unscheduled Downtime” – the total amount of time, during any calendar month, measured in minutes, during which the Customer is not able to access the features and functions of the Application Service as contemplated in these Standards, other than Scheduled Downtime.
