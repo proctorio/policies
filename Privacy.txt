@@ -286,27 +286,48 @@ Proctorio uses a third-party payment processor to process payments. Proctorio do
 
 Third-party service providers
 Proctorio uses third-party service providers to help provide Proctorio's Services, such as hosting Proctorio's various blogs, Help Center, and knowledge bases, and to help Institutions understand the use of Proctorio's Services. Since Proctorio uses Zero-Knowledge Encryption for audio, video, screen recordings and images, it is encrypted and not accessible by the third-party service provider. In all instances, third-party services providers can only use any data for Proctorio's business purposes as specified in Proctorio's written agreement with them and not their own purposes. These Services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
-The sub-processors that Proctorio uses are listed below but Proctorio may update this list periodically: 
+The sub-processors that Proctorio uses are listed below but Proctorio may update this list periodically.
 
-AWS
-Purpose: Cloud service provider
+Required sub-processors for all services:
+
+Amazon Web Services
+Purpose: DNS Services
 Location: International
 Website: https://aws.amazon.com/
 
 Azure
-Purpose: Cloud service provider
+Purpose: Cloud Service Provider
 Location: International 
 Website: https://azure.microsoft.com/
 
+Backblaze
+Purpose: Cloud Storage Services
+Location: USA and Europe 
+Website: https://www.backblaze.com/
+
 Cloudflare
-Purpose: Cloud service provider
+Purpose: Cloud Service Provider
 Location: International
 Website: https://cloudflare.com/
 
-Maxmind
-Purpose: Geo-Location of IP address provider for the Proctorio Gradebook
+Constellix
+Purpose: DNS Services
+Location: International
+Website: https://constellix.com/
+
+Optional sub-processors for additional services:
+
+ClassCalc
+Purpose: Calculator Application
 Location: USA
-Website: https://maxmind.com/
+Website: https://classcalc.com/
+
+Crossplag LLC
+Purpose: Originality (Plagiarism) and AI Detection Services
+Location: USA
+Website: https://crossplag.com/
+
+Optional sub-processors for support services:
 
 Olark
 Purpose: Chat support provider
@@ -314,14 +335,9 @@ Location: USA
 Website: https://olark.com/
 
 Proctorio d.o.o
-Purpose: Sales, support and engineering
+Purpose: Support Services
 Location: Serbia
 Website: https://proctorio.com/
-
-Stripe
-Purpose: Payment processing provider
-Location: USA and Ireland
-Website: https://stripe.com/
 
 Twilio
 Purpose: Internal and external call routing provider
@@ -333,8 +349,15 @@ Purpose: Helpdesk and support
 Location: USA
 Website: https://zendesk.com/
 
+Optional sub-processors for payment services:
+
+Stripe
+Purpose: Payment processing provider
+Location: USA and Europe
+Website: https://stripe.com/
+
 Proctorio reserves the right to update this list as needed. 
-To ensure you are aware of all updates, please periodically check for updates here. You can also subscribe to receive update notifications on GitHub.com.
+To ensure you are aware of all updates, please periodically check for updates here. You can also subscribe to receive update notifications at github.com/proctorio/policies.
 
 Marketing
 Proctorio uses search engines (Bing and Google), paid social media (LinkedIn, Twitter, and Facebook), email marketing (current and future Proctorio blog), contests (CRM info), surveys, (anonymous and/or CRM), and lead generation forms (Facebook, G2 and LinkedIn) to provide marketing to Institution representatives, who have opted in to receive marketing materials.
