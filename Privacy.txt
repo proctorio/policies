@@ -56,7 +56,7 @@ Additionally, an Institution may select an option to verify the test taker’s i
 This ID image along with other test-taker audio, video, and screen recordings and images are stored with Zero-Knowledge Encryption by Proctorio as described below.
 
 Live ID
-If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. Additionally, during the pre-checks a Proctorio proctor will request to see the Institution-accepted form of ID and will record this information. A proctor cannot personally store or use this information other than to verify the test taker’s identity.
+If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. Additionally, during the pre-checks a Proctorio proctor will request to see the Institution-accepted form of ID and will record this information. A proctor cannot personally store or use this information other than to verify the test taker’s identity. 
 The file is transmitted directly from the test taker to the proctor. After the transmission and the identity is verified, the file is immediately deleted. 
 
 Automated ID
@@ -145,7 +145,6 @@ Disclosure of such information by an exam administrator is voluntary and will no
 Surveys, contests, feedback
 Additionally, Proctorio may invite Institution-approved representatives or test takers to participate in surveys, questionnaires, contests, or to contact Proctorio with questions, comments, or feedback.
 Participation is voluntary and only those that have opted in/consented will be contacted.
-
 Due to the nature of some of these activities, they may include the collection of Personal Information, such as your:
 
 Institution-approved representative’s name
@@ -242,10 +241,11 @@ Please Note: The Institution decides which of Proctorio's products or Services t
 
 Site operations and security 
 As a controller and operator of Proctorio's Site, Proctorio automatically collects information and log details to operate Proctorio's Sites.
-Proctorio tracks the total number of visitors to Proctorio’s Site, the number of visitors to each page of Proctorio’s Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
 
+Proctorio tracks the total number of visitors to Proctorio’s Site, the number of visitors to each page of Proctorio’s Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
 Proctorio may also analyze tracked data for trends and statistics in the aggregate. Such information will be maintained, used, and disclosed in aggregate form only and will not contain Personal Information.
 Proctorio also has in place website security tools and processes, including penetration testing and vulnerability scans, to better ensure Site security and protection of information. In the event of a firewall event or other attempt that triggers a firewall rule, either active or passive, the offending IP address is recorded in its entirety and maintained in our data security tracking systems.
+
 De-identified data/aggregate information
 For Customer Billing and Usage
 Proctorio uses de-identified information for billing and utilization analysis of Proctorio's Services. 
