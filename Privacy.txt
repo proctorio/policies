@@ -56,7 +56,8 @@ Additionally, an Institution may select an option to verify the test taker’s i
 This ID image along with other test-taker audio, video, and screen recordings and images are stored with Zero-Knowledge Encryption by Proctorio as described below.
 
 Live ID
-If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. Additionally, during the pre-checks a Proctorio proctor will request to see the Institution-accepted form of ID and will record this information. A proctor cannot personally store or use this information other than to verify the test taker’s identity. The file is transmitted directly from the test taker to the proctor. After the transmission and the identity is verified, the file is immediately deleted. 
+If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. Additionally, during the pre-checks a Proctorio proctor will request to see the Institution-accepted form of ID and will record this information. A proctor cannot personally store or use this information other than to verify the test taker’s identity.
+The file is transmitted directly from the test taker to the proctor. After the transmission and the identity is verified, the file is immediately deleted. 
 
 Automated ID
 If this option is selected by the Institution, a photo of the Institution-accepted form of ID will be collected with the webcam and encrypted on Proctorio's servers. The image will only be accessible by an Institution-approved representative along with the exam results within the Institution’s assessment platform. 
@@ -142,7 +143,8 @@ may be collected from an Institution-approved representative to facilitate the t
 Disclosure of such information by an exam administrator is voluntary and will not be sold to third parties. 
 
 Surveys, contests, feedback
-Additionally, Proctorio may invite Institution-approved representatives or test takers to participate in surveys, questionnaires, contests, or to contact Proctorio with questions, comments, or feedback. Participation is voluntary and only those that have opted in/consented will be contacted.
+Additionally, Proctorio may invite Institution-approved representatives or test takers to participate in surveys, questionnaires, contests, or to contact Proctorio with questions, comments, or feedback.
+Participation is voluntary and only those that have opted in/consented will be contacted.
 
 Due to the nature of some of these activities, they may include the collection of Personal Information, such as your:
 
@@ -239,10 +241,10 @@ Processing client payments and/or test taker payments
 Please Note: The Institution decides which of Proctorio's products or Services to use and which settings and features to enable. 
 
 Site operations and security 
-As a controller and operator of Proctorio’s Site, Proctorio automatically collects information and log details to operate Proctorio’s Sites. Proctorio tracks the total number of visitors to Proctorio’s Site, the number of visitors to each page of Proctorio’s Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
+As a controller and operator of Proctorio's Site, Proctorio automatically collects information and log details to operate Proctorio's Sites.
+Proctorio tracks the total number of visitors to Proctorio’s Site, the number of visitors to each page of Proctorio’s Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
 
 Proctorio may also analyze tracked data for trends and statistics in the aggregate. Such information will be maintained, used, and disclosed in aggregate form only and will not contain Personal Information.
-
 Proctorio also has in place website security tools and processes, including penetration testing and vulnerability scans, to better ensure Site security and protection of information. In the event of a firewall event or other attempt that triggers a firewall rule, either active or passive, the offending IP address is recorded in its entirety and maintained in our data security tracking systems.
 De-identified data/aggregate information
 For Customer Billing and Usage
@@ -269,7 +271,7 @@ Continuous improvement, product development, and research
 Proctorio may disclose your Personal Information in the following limited circumstances:
 
 Law and harm 
-Proctorio may disclose test-taker Information if Proctorio believes that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Proctorio’s rights or property.
+Proctorio may disclose test-taker Information if Proctorio believes that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Proctorio's rights or property.
 
 Business transfers 
 Test-taker Personal Information maintained in the Institution’s exam platform is the property of the Institution. Test-taker audio, video, and screen recordings and images stored within the Proctorio servers are pseudoanonymized and encrypted and will not be sold or transferred to a third party if Proctorio is involved in an acquisition, merger or other corporate reorganization transaction. In such instances, and consistent with and limited to data protection laws and privacy commitments, marketing analytics data, CRM data, customer lists, and other pseudoanonymized data may be disclosed or transferred as part of a corporate reorganization transaction; provided that the acquirer commits to using the information in a manner consistent with applicable law and this Privacy Notice.
@@ -445,7 +447,7 @@ Describe your request with sufficient detail that allows Proctorio to properly u
 
 Verify requests
 Proctorio cannot respond to your request or provide you with Personal Information if Proctorio cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. If Proctorio cannot verify your identity or authority, Proctorio will follow procedures to verify your identity and authority. Proctorio attempts to respond to a verifiable consumer request within forty-five (45) days of its receipt. If Proctorio requires more time (up to 45 days), Proctorio will inform you of the reason and extension period in writing.
-If you have an account with Proctorio, Proctorio will deliver Proctorio’s written response to that account. If you do not have an account with Proctorio, Proctorio will deliver Proctorio’s written response by mail or electronically, at your option.
+If you have an account with Proctorio, Proctorio will deliver Proctorio's written response to that account. If you do not have an account with Proctorio, Proctorio will deliver Proctorio's written response by mail or electronically, at your option.
 Any disclosures Proctorio provides will only cover the 12-month period preceding the verifiable consumer request’s receipt. The response Proctorio provides will also explain the reasons Proctorio cannot comply with a request, if applicable. For data portability requests, Proctorio will select a format to provide your Personal Information that is readily usable and should allow you to transmit the Information from one entity to another entity.
 Proctorio does not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If Proctorio determines that the request warrants a fee, Proctorio will tell you why Proctorio made that decision and provide you with a cost estimate before completing your request.
 AB 1584 is a California law that defines student and educational agencies’ rights regarding student records. Proctorio complies with AB 1584 as described in this Privacy Notice and as applicable in Proctorio’s agreements with California Institution(s).
@@ -490,6 +492,7 @@ Institutions have the ability to export data stored by Proctorio.  Test-takers m
 Marketing: For Institution-approved representatives, you have the right to opt-out of marketing communications Proctorio sends you at any time. You can do this by clicking the "unsubscribe" link in the marketing email Proctorio sent you or by contacting Proctorio using one of the contact channels provided. 
 
 If using the contact details please provide your:
+
 Full name
 Email address
 Any other relevant information that may be required to address your request
