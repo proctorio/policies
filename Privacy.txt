@@ -479,24 +479,17 @@ If you have any questions or comments about your rights under the CCPA, CPRA, CP
 
 Canadian User Rights – FIPPA and PIPEDA
 Proctorio makes every effort to cooperate with Institutions in compliance with the Canadian Freedom of Information and Protection of Privacy Act ("FIPPA"), Personal Information Protection and Electronic Documents Act ("PIPEDA"), and all federal and provincial laws and regulations, including those related to privacy and anti-spam legislation.
-
 FIPPA provides Canadian citizens with the right to access information under the control of Institutions, while PIPEDA aims to protect the privacy rights of individuals by regulating how organizations handle their personal information and fostering transparency, accountability, and consent in the collection and use of personal data.
-
 This document, the SaaS Agreement, and the Terms of Service all detail Proctorio's and the Institution's obligations in regard to confidentiality, transparency, accountability, and consent in the collection and use of data. FIPPA and PIPEDA compliance are predicated on all Parties' compliance with these provisions.
-
 Further, with regard to PIPEDA's ten "Fair Information Principles" forming the framework for how Personal Information should be collected and disclosed, the Privacy Notice complies with that as well. The goal of the Fair Information Principles is to examine any collection and use of Personal Information, and ensure that it only be used in such a way that a reasonable person would consider appropriate in the circumstances. Proctorio, throughout this document, complies with that ask by being fully transparent and open with regard to all of its policies, and approaching them in not only a fully reasonable manner, but also in a cautious manner looking toward protecting all Personal Information.
 
 GDPR
 Proctorio complies with the EU General Data Protection Regulation ("GDPR").
-
 Proctorio uses Standard Contractual Clauses ("SCCs") in addition to other mechanisms and implements supplemental measures as applicable to better ensure that EU individuals' Personal Information is subject to adequate protections.
-
 Proctorio is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland to GDPR standards. In situations where public authorities make lawful requests for information, such as to meet national security or law enforcement requirements, Proctorio may be required to disclose Personal Information.
-
 If you have an unresolved privacy or data use concern that Proctorio has not addressed satisfactorily, please contact Proctorio's US-based, third-party dispute resolution provider: Jams. This service is free of charge.
 
 European Economic Area (EEA) or Switzerland User Rights
-
 Legal basis for processing your Information: If you are a Proctorio user or are visiting Proctorio's Site(s) and are located in the European Economic Area ("EEA"), Proctorio's legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which Proctorio collects it. When Proctorio is a processor for an Institution, their Privacy Notice controls the processing of your Personal Information. Proctorio encourages you to read your Institution's Privacy Notice for a legal understanding of how, when, and why your Personal Information may be collected and how it is used.
 When Proctorio is a data controller: If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Information) to Proctorio and Proctorio's facilities in the United States or elsewhere, including those of third parties as described in the "Business transfers" and "Third-party service providers" sections of this Privacy Notice. Please review Proctorio's Terms of Service for more information regarding any other applicable data protections.
 When Proctorio is a controller with respect to your Personal Information, such as for customer support, service, and other inquiries, and you are based in the EEA or Switzerland, you may have other rights as provided below:
@@ -510,9 +503,7 @@ Right to restriction: You may have the right to restrict Proctorio's processing 
 Right to data portability: You may have the right to receive the Personal Information that you have given Proctorio, in a structured, commonly-used, and machine-readable format.
 
 Data portability refers to the ability of individuals to easily and securely transfer their data from one organization or platform to another. The purpose of data portability is to empower individuals with greater control and flexibility regarding their Personal Information.
-
 Institutions have the ability to export data stored by Proctorio. Test-takers must contact their Institution and since test-taker records are under the control of that Institution.
-
 Marketing: For Institution-approved representatives, you have the right to opt-out of marketing communications Proctorio sends you at any time. You can do this by clicking the "unsubscribe" link in the marketing email Proctorio sent you or by contacting Proctorio using one of the contact channels provided.
 
 If using the contact details please provide your:
