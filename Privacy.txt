@@ -143,7 +143,7 @@ may be collected from an Institution-approved representative to facilitate the t
 Disclosure of such information by an exam administrator is voluntary and will not be sold to third parties. 
 
 Surveys, contests, feedback
-Additionally, Proctorio may invite Institution-approved representatives or test takers to participate in surveys, questionnaires, contests, or to contact Proctorio with questions, comments, or feedback.
+Additionally, Proctorio may invite Institution-approved representatives or test takers to participate in surveys, questionnaires, contests, or to contact Proctorio with questions, comments, or feedback. 
 Participation is voluntary and only those that have opted in/consented will be contacted.
 Due to the nature of some of these activities, they may include the collection of Personal Information, such as your:
 
@@ -242,7 +242,7 @@ Please Note: The Institution decides which of Proctorio's products or Services t
 Site operations and security 
 As a controller and operator of Proctorio's Site, Proctorio automatically collects information and log details to operate Proctorio's Sites.
 
-Proctorio tracks the total number of visitors to Proctorio’s Site, the number of visitors to each page of Proctorio’s Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
+Proctorio tracks the total number of visitors to Proctorio's Site, the number of visitors to each page of Proctorio's Site, browser type, and IP addresses. However, Proctorio anonymizes the IP address by removing the last octet of the address, making Proctorio unable to identify you or your exact location.
 Proctorio may also analyze tracked data for trends and statistics in the aggregate. Such information will be maintained, used, and disclosed in aggregate form only and will not contain Personal Information.
 Proctorio also has in place website security tools and processes, including penetration testing and vulnerability scans, to better ensure Site security and protection of information. In the event of a firewall event or other attempt that triggers a firewall rule, either active or passive, the offending IP address is recorded in its entirety and maintained in our data security tracking systems.
 
