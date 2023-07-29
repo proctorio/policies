@@ -322,10 +322,10 @@ Purpose: Calculator Application
 Location: USA
 Website: https://classcalc.com/
 
-Crossplag LLC
+Inspera USA, Inc.
 Purpose: Originality (Plagiarism) and AI Detection Services
 Location: USA
-Website: https://crossplag.com/
+Website: https://www.inspera.com/us
 
 Optional sub-processors for support services:
 
@@ -340,7 +340,7 @@ Location: Serbia
 Website: https://proctorio.com/
 
 Twilio
-Purpose: Internal and external call routing provider
+Purpose: Call routing and SMS provider
 Location: USA
 Website: https://twilio.com/
 
