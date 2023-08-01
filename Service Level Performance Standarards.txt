@@ -1,6 +1,7 @@
-Service Level Agreement "SLA"
+Service Level Agreement
 Last modified July 1, 2023.
-Proctorio's SLA provides clear uptime expectations, articulated resolution response times, as well as remedies available should Proctorio ever fall below expectations. Historically, Proctorio has maintained an uptime of greater than 99.991%, as seen publicly at: https://proctoriostatus.com.
+
+This Service Level Agreement (this "SLA") provides clear uptime expectations, articulated resolution response times, as well as remedies available should Proctorio ever fall below expectations. Historically, Proctorio has maintained an uptime of greater than 99.991%, as seen publicly at: https://proctoriostatus.com.
 
 Service Level Performance Standards
 Proctorio ("Company") and the Customer on the corresponding Software-as-a-Service Agreement ("SaaS Agreement") agree to abide by these Service Level Performance Standards ("Standards") which hereby incorporate Privacy Policy and SaaS Agreement.
