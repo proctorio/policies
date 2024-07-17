@@ -1,5 +1,5 @@
 Terms of Service
-Last modified December 30, 2023.
+Last modified July 17, 2024.
 
 These Terms of Service ("TOS" or "Terms") apply to you if:
 you are an institution, university, college, school, or organization (each, an "Institution");
@@ -103,8 +103,8 @@ Email: notices@proctorio.com
 C. Notices. - Other
 All notices required under an applicable SaaS Agreement shall be in writing and sent by certified mail or email; to the address provided on the SaaS Agreement, and to Proctorio GmbH at:
 Proctorio GmbH
-Bahnhofstraße 18 85774
-Unterföhring, Germany
+Lindleystraße 8A 60314
+Frankfurt am Main, Germany
 Email: notices@proctorio.de
 D. Assignment; Delegation.
 If You entered into a SaaS Agreement with Proctorio, You may assign Your rights and duties under the SaaS Agreement, with thirty days prior written notice to Proctorio. Proctorio may assign any SaaS Agreement, without consent, in the event of a change of control event. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
