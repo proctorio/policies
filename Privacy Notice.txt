@@ -1,5 +1,5 @@
 ﻿Privacy Notice
-Last modified October 27, 2023.
+Last modified July 17, 2024.
 
 Collecting Personal Information
 
@@ -546,6 +546,8 @@ Proctorio will notify the Institution. The Institution is responsible for notify
 
 As a data controller
 If Proctorio learns of a security systems breach, Proctorio may attempt to notify you electronically. Proctorio may post a notice on Proctorio's Sites and/or Services if a security breach occurs. Proctorio may also send an email at the email address provided. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+Proctorio investigates and provides notification of data breaches in accordance with our internal Security Incident Policy ­and applicable law.
 
 Live proctors
 Live proctors are used for Live Proctoring and Live ID Verification Services only when selected by an Institution.
