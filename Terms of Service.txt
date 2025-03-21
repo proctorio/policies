@@ -1,5 +1,5 @@
 Terms of Service
-Last modified September, 2024.
+Last modified March, 2025.
 
 These Terms of Service ("TOS" or "Terms") apply to you if:
 you are an institution, university, college, school, or organization (each, an "Institution");
@@ -31,6 +31,8 @@ Proctorio is not responsible or liable for any use of Your Content by Your Insti
 If Institution has entered into a SaaS Agreement with Proctorio, Institution may permit Institution Users and End Users together "Authorized Users" to use the Application Service, if Authorized Users are subject to an enforceable agreement, providing the same or greater protections for Proctorio's Confidential Information and Application IP as found in these Terms, the SaaS Agreement, the Acceptable Use Policy and the Privacy Policy. "Confidential Information" includes, but is not limited to, any and all written or oral information concerning the SaaS Agreement You may enter into with us, pricing and financial information, performance requirements, proposals, Application Documentation, Content, and Personally Identifiable Information.
 Proctorio is committed to the ethical use of Proctorio's Application Service by the Institution and Authorized Users. End Users (Institution-approved representatives and test takers) are required to comply with the Acceptable Use Policy (AUP) before utilizing the Services.
 At Institution's expense, Institution will assist Proctorio with access to, and use of, its facilities, equipment, and personnel, as Proctorio may need to perform Its obligations and enforce the obligations of the Authorized Users under an applicable SaaS Agreement and these Terms of Service.
+
+Proctorio ensures its AI systems are fair, transparent, and secure, with clear user guidance and feedback mechanisms. Users or anyone affected by the AI models or algorithms can submit their concerns at privacy@proctorio.com.
 
 5. Your License to Use the Services.
 Some of Proctorio's Services may require you to install a browser extension.
