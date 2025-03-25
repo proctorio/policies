@@ -95,7 +95,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AND THE PROCTORIO ENTITIES SHALL NOT
 EXCEPT FOR INDEMNIFICATION OBLIGATIONS AS STATED IN THESE TERMS, IN NO EVENT SHALL THE AGGREGATE LIABILITY OF AUTHORIZED USERS OR THE PROCTORIO ENTITIES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (U.S. $100.00) OR, FOR AN INSTITUTION THE AMOUNT INSTITUTION PAID TO PROCTORIO IN THE PAST TWELVE MONTHS.
 THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE PROCTORIO ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-15. General Terms.
+16. General Terms.
 A. English Language.
 In case of conflict, the English language version of any agreement or notice shall control.
 B. U.S. Government Institution Representatives and Test Takers.
@@ -107,15 +107,15 @@ Proctor.io, Inc.
 Suite 203
 Scottsdale, AZ 85257
 Email: notices@proctorio.com
-C. Notices. - Other
+D. Notices. - Other
 All notices required under an applicable SaaS Agreement shall be in writing and sent by certified mail or email; to the address provided on the SaaS Agreement, and to Proctorio GmbH at:
 Proctorio GmbH
 Lindleystraße 8A 60314
 Frankfurt am Main, Germany
 Email: notices@proctorio.de
-D. Assignment; Delegation.
+E. Assignment; Delegation.
 If You entered into a SaaS Agreement with Proctorio, You may assign Your rights and duties under the SaaS Agreement, with thirty days prior written notice to Proctorio. Proctorio may assign any SaaS Agreement, without consent, in the event of a change of control event. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns.
-E. Payment; Refunds.
+F. Payment; Refunds.
 To the extent the Services or any portion thereof is made available for any fee or through a subscription, your access will be granted following payment of the applicable fees to Company. Your account and access to the Services may be suspended in the event of non-payment of applicable fees. You represent and warrant to Company that such payment information is true and that you are authorized to use the payment instrument. If You are using a payment instrument held in the name of a third party, you agree to communicate Proctorio's policy on payments and refunds set forth in this Section 15(E) to such third party. For recurring subscriptions, you will promptly update your account information with any changes (for example, a change in your billing address or credit card expiration date) that may occur.
 If your access to the Services is not under an Institution SaaS contract, your payments are due under the a pay as you go, End User-pay model. This means that You are invoiced by the Company based on the then-stated fees associated with such usage. When you create your account, you will have three payment options: (1) put a card on file with the Company, (2) accept monthly invoices, or (3) End User-pay per usage. Option (2) is only available if you complete an addendum document with the Company.
 In the event an Institution's payment method stops working for any reason, the Institution's payment method will automatically revert to End User-pay, meaning the End User will become directly financially responsible for their access to the Services. In that circumstance, Institution understands and agrees that it shall be solely and completely responsible for any and all requests from End Users for refunds. Institution further agrees to hold harmless, indemnify, and, at Proctorio's option, defend Proctorio from and against any losses, liabilities, costs (including reasonable attorneys' fees) or damages resulting from any claims from any End User resulting from any failure of Institution's payment method with Proctorio for the Services.
@@ -123,30 +123,30 @@ All payments are nonrefundable. In certain circumstances, we may provide a refun
 If You, or the third party payment instrument holder, see a charge on a card or bank statement for a purchase from Proctorio that You did not make, please first check with your family and friends to see if they made the purchase. Once You've confirmed that the charge was not made by anyone You know, please report the charge to our support team at refunds@proctorio.com within 90 days of the transaction.
 The amount and the decision to provide a refund will be made by Proctorio in its sole and absolute discretion. If You receive a refund for any reason, Proctorio reserves the right to terminate Your access to the relevant Services.
 Proctorio may suspend or cancel payment or refuse a refund request if we find evidence of fraud, abuse, or unlawful or other manipulative behavior.
-F. Advertising.
+G. Advertising.
 If You entered into a SaaS Agreement with Proctorio, and gave prior written consent, we may reference and use Your name and trademarks (only in a manner consistent with Your brand requirements and such use subject to Your prior review and approval), and disclose Proctorio's services for business development and marketing efforts, including on our website. Proctorio will not use any Customer Content to advertise or market to students or their parents. Proctorio does not sell or otherwise transfer your data to any third party except as specifically stated in these Terms or Privacy Policy.
 
-G. Independent Contractors.
+H. Independent Contractors.
 You and Proctorio will, at all times, act as independent contractors, and nothing contained in these Terms, or any other agreement, will be construed or implied to create an agency, partnership, or employer and employee relationship.
 
-H. Waiver and Severability.
+I. Waiver and Severability.
 The failure of Proctorio or You to enforce any right or provision of these Terms, or any other applicable agreement, will not be deemed a waiver of such right or provision. If any provision of these Terms, or any other applicable agreement, is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect.
-I. Governing Law and Venue. - U.S.
+J. Governing Law and Venue. - U.S.
 These Terms, any action related thereto, and all other agreements between You and Proctorio, unless otherwise stated, will be governed by Delaware State Law without regard to or application of its conflict of law provisions or Your state or country of residence. All claims for injunctive relief and the administration of any arbitration proceedings shall be brought and/or conducted solely in Maricopa County, Arizona. You consent to the jurisdiction and venue of any such proceedings and waive any objection as to an inconvenient forum.
 If You are a federal, state, or local government entity in the United States using the Services in your official capacity and legally unable to accept the controlling law, jurisdiction or venue clauses, then those clauses do not apply to You. For such U.S. federal government entities, these Terms and any action related thereto will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of Delaware (excluding choice of law).
 
-I. Governing Law and Venue. - Other
+K. Governing Law and Venue. - Other
 These Terms, any action related thereto, and all other agreements between You and Proctorio, unless otherwise stated, will be governed exclusively by German law to the exclusion of the UN Sales Convention. All claims for injunctive relief and the administration of any arbitration proceedings shall be brought and/or conducted solely in the place of business of the Company. You consent to the jurisdiction and venue of any such proceedings and waive any objection as to an inconvenient forum.
 
-J. Dispute Resolution. - U.S.
+L. Dispute Resolution. - U.S.
 Any dispute, controversy or claim arising out of or relating to the Services and/or these Terms shall be settled by binding arbitration in accordance with the Commercial Arbitration Rules (including the Optional Rules for Emergency Measures of Protection) of the American Arbitration Association, which shall administer the arbitration in Maricopa County, Arizona. Judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof. A single qualified arbitrator shall be appointed in accordance with the Commercial Arbitration Rules (including the Optional Rules for Emergency Measures for Protection) of the American Arbitration Association. Such qualified arbitrator shall be a member of the Arizona State Bar Association and have at least ten (10) years of experience in resolving corporate disputes related to software technologies. The arbitration award shall be in writing and shall include findings of fact and conclusions of law. Notwithstanding anything to the contrary, this Section shall not prevent a party from seeking a temporary or preliminary injunctive order from a court of competent jurisdiction in cases of irreparable harm.
 
-J. Dispute Resolution. - Other
+M. Dispute Resolution. - Other
 Any dispute, claim or controversy arising out of or in connection with the Services or these Terms shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce (the "Rules") by a panel of three arbitrators. Each party to the arbitration proceedings shall select one arbitrator, and those two arbitrators shall select the third arbitrator, all three to be appointed in accordance with the Rules. No award or procedural order made in the arbitration shall be published; however, any arbitration award shall be in writing and shall include findings of fact and conclusions of law. Neither the Emergency Arbitrator Provisions nor the Expedited Procedure Provisions shall apply. All Arbitration proceedings shall be conducted in the English language. Notwithstanding anything to the contrary, this Section shall not prevent a party from seeking a temporary or preliminary injunctive order from a court of competent jurisdiction in cases of irreparable harm.
 
-K. Entire Agreement.
+N. Entire Agreement.
 If You entered into a SaaS Agreement with Proctorio, the SaaS Agreement, these Terms, Proctorio's Acceptable Use Policy, and Proctorio's Privacy Policy are the entire and exclusive agreements between Proctorio and You regarding the Services (excluding any services for which You have an additional agreement with Proctorio). In the event of a conflict in the terms and conditions as set forth in these agreements, the following Order of Precedence shall apply: first, the SaaS Agreement; second, these Terms; third, the Privacy Policy; and fourth, the Acceptable Use Policy. Any amendment to a SaaS Agreement must be in writing made by the Parties, or their authorized representatives.
 If You are not a party to a SaaS Agreement, these Terms, Proctorio's Privacy Policy, and the Acceptable Use Policy are the entire and exclusive agreement between Proctorio and You regarding the Services, and these Terms supersede and replace any prior agreements between Proctorio and You regarding the Services.
 
-L. No Third Party Beneficiaries.
+O. No Third Party Beneficiaries.
 Other than members of the group of companies of which Proctorio is the parent, no other person or company will be a third party beneficiary to the Terms.
