@@ -1,5 +1,5 @@
 ﻿Privacy Notice
-Last modified March 29, 2025
+Last modified May 1, 2025
 
 Collecting Personal Information
 
@@ -395,7 +395,7 @@ In the United States, Proctorio has agreements with educational Institutions tha
 Why is FERPA important?
 FERPA protects students from having their information disclosed to third parties without the eligible student (18+) or parent's/guardian's consent, unless there is an applicable exception under FERPA, such as when a third-party service provider is authorized by an educational Institution by a written agreement to provide services as a "School Official."
 Proctorio complies with FERPA by only using student Personal Information as a School Official as authorized by an educational Institution in Proctorio's written agreements.
-Proctorio certified as FERPA compliant by the iKeep Safe Coalition which signifies Proctorio's compliance with relevant laws and regulations. Proctorio is also a signatory of the Student Privacy Pledge, where Proctorio pledges responsible stewardship and appropriate use of student Personal Information according to the commitments in the Pledge and in an effort to adhere to all laws applicable to Proctorio as a school service provider.
+
 Audio, video, and screen recordings and images collected during the exam attempt, stored by Proctorio, and received from an Institution are encrypted using Zero-Knowledge Encryption. These recordings and images can only be decrypted and reviewed by Institution-approved representatives within the Institution's assessment platform. Proctorio dictates who these authorized users are by utilizing the educational Institution's assessment platform to gain information about the user's role. This restricts information from being shared with users who do not fall under the "School Official" role. The entire process is transparent to the end user. Proctorio securely delivers all content for the Services encrypted and Proctorio's servers make every effort to comply with industry security standards, including SOC 2, ISO 27001, ISO 27018 and PCI-DSS.
 For Proctorio's technical support channels, Proctorio's Support Representatives are trained on privacy and security and are instructed not to ask for information beyond what FERPA defines as "Directory Information". This information may include:
 
