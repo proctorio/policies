@@ -1,5 +1,5 @@
 ﻿Privacy Notice
-Last modified March 30, 2026
+Last modified June 17, 2026
 
 Collecting Personal Information
 
@@ -297,11 +297,11 @@ Location: International
 Website: https://azure.microsoft.com/
 
 Cloudflare
-Purpose: Cloud Service Provider
-Location: International
+Purpose: Content delivery network (CDN), web application firewall (WAF), reverse proxy with Data Localization Suite for regional traffic processing, and bot detection (Cloudflare Turnstile) on dashboard sign-in and sign-up pages. 
+Location: International (Data Localization Suite for regional processing)
 Website: https://cloudflare.com/
 
-Constellix
+Constellix (Digicert)
 Purpose: DNS Services
 Location: International
 Website: https://constellix.com/
@@ -397,6 +397,22 @@ Third-party platforms or payment processors may utilize cookies on their own dom
 
 Do not track settings
 Proctorio does not use any client-side tracking pixels such as those used for advertising, marketing, and targeting.
+
+Bot Detection and Abuse Prevention
+Proctorio uses Cloudflare Turnstile, a bot-detection service provided by Cloudflare, Inc. ("Cloudflare"), on its dashboard sign-in and sign-up pages to protect against automated abuse, credential stuffing, and fraudulent account creation. Cloudflare Turnstile operates in the background without requiring visitors to solve a CAPTCHA challenge. Turnstile is not used within proctored exam sessions.
+When you access our dashboard sign-in or sign-up pages, Cloudflare Turnstile may automatically collect and process the following information to determine whether you are a human visitor:
+Your IP address
+TLS (Transport Layer Security) fingerprint
+Browser User-Agent header
+Browser type, version, and device characteristics
+Interaction patterns (e.g., mouse movements, time spent on page)
+This information is used solely to distinguish legitimate human visitors from automated bots. It is not used to identify, profile, or target individual users. Cloudflare Turnstile does not set any cookies on your device in our implementation.
+Legal Basis for Processing
+We process this data on the basis of our legitimate interest in protecting our platform and users from automated abuse and ensuring the security of account access (Article 6(1)(f) GDPR). Bot detection on sign-in and sign-up pages is a security measure that directly benefits all users by preventing unauthorized access attempts and fraudulent account creation.
+Cloudflare's Role
+Cloudflare acts as a data processor on our behalf when analyzing these signals to generate a human/bot determination. Cloudflare may also act as an independent data controller for certain aggregated data used to improve its bot-detection services. For more information about how Cloudflare processes data through Turnstile, please see the Cloudflare Turnstile Privacy Addendum at cloudflare.com/turnstile-privacy-policy and Cloudflare's general privacy policy at cloudflare.com/privacypolicy.
+International Data Transfers
+Cloudflare uses a Data Localization Suite to process traffic regionally. Data processed by Cloudflare Turnstile may be transferred to and processed in countries outside your country of residence. Cloudflare maintains appropriate safeguards for international data transfers, including EU Standard Contractual Clauses (SCCs) and participation in the EU-U.S. Data Privacy Framework.
 
 Your Rights
 
