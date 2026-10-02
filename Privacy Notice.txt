@@ -41,6 +41,7 @@ CONTENTS
 7. DATA SECURITY AND RETENTION
     7.1 Security
     7.2 Data Retention
+    7.3 Security Incident Notification
 8. YOUR RIGHTS
     8.1 As a data processor
     8.2 As a data controller
@@ -158,7 +159,7 @@ A trained live agent visually compares you to your institution accepted ID durin
 If your institution keeps your ID and photo on file, for example from your enrollment records, it can provide them for verification instead of a live agent or the third-party provider. When your exam launches, your institution supplies secure links to its copy of your ID image and your reference photo. Only the Proctorio extension on your device downloads them, and it compares the reference photo with your live camera image on your device, the same way Continuity Check works. The comparison runs in your device's memory; the downloaded images and all comparison data are discarded when the check completes, and nothing biometric leaves your device. The webcam images captured during your entry are stored with Zero-Knowledge Encryption alongside your exam recording, like Standard ID. Your institution is responsible for the accuracy of the reference images it provides and for telling you how it holds and uses them.
 
 3.4.5 Cross-institution fraud detection
-In the Validate ID options (Instant ID and Standard ID), Proctorio stores the type of ID presented and a one-way cryptographic hash of the ID number. Proctorio does not store the ID number itself, and the hash cannot be reversed to reveal the number or the contents of your document. Proctorio retains this hashed value for a maximum of twelve months from the verification, for a single purpose: detecting when the same ID is presented at more than one institution. If that happens, Proctorio notifies the affected institutions so they can review the matter together. Proctorio does not decide whether anything improper occurred; that determination belongs to your institution. The hashed value is deleted when the twelve month period ends, and earlier if your institution approves your deletion request. Capture ID, Match ID, and the Institution-Provided ID Check do not create this record.
+In the Validate ID options (Instant ID and Standard ID), Proctorio stores the type of ID presented and a keyed cryptographic hash (HMAC) of the ID number, computed with a secret key that Proctorio keeps in a secure key store, separate from the stored values. Proctorio does not store the ID number itself, and without the key the stored value cannot be reversed to reveal the number or the contents of your document, or matched against guessed numbers. Proctorio retains this hashed value for a maximum of twelve months from the verification, for a single purpose: detecting when the same ID is presented at more than one institution. If that happens, Proctorio notifies the affected institutions so they can review the matter together. Proctorio does not decide whether anything improper occurred; that determination belongs to your institution. The hashed value is deleted when the twelve month period ends, and earlier if your institution approves your deletion request. Capture ID, Match ID, and the Institution-Provided ID Check do not create this record.
 
 3.4.6 How long verification data is kept
 Where your institution has an active verification license, your ID verification data is retained by the provider for one year from the license activation so you can skip re-verification, and it is redacted at the end of that year. Where verification is per exam, your verification data is retained by the provider for at least the exam's eight hour window and is redacted within twenty-four hours of the exam. Any re-verification copy Proctorio keeps for Standard ID follows the same schedule.
@@ -229,6 +230,7 @@ Institution-approved representative's name
 Phone number
 Institution name
 Campus email address
+Demonstration and sales meetings may be recorded.
 
 4.3 Secure Exam Proctor exam enabling
 An Institution-approved representative can generally utilize Secure Exam Proctor to conduct exams. To do so, the Institution-approved representative does not have to provide their name or other Personal Information. They only have to provide the single sign-on data managed through the Institution exam platform. Institution-approved representatives configure their exam settings to select whether to collect Test Taker data as described above.
@@ -271,7 +273,7 @@ You may contact Proctorio about Proctorio's products and Services or with custom
 If you contact us by email, Proctorio will obtain and store your email address.
 
 4.8.2 Customer service phone calls
-If you contact us by phone call, Proctorio will obtain and store your phone number.
+If you contact us by phone call, Proctorio will obtain and store your phone number. Support calls may be recorded.
 
 4.8.3 Customer service Live Chat
 If you contact us through chat, Proctorio will obtain your IP Address and store only part of it.
@@ -285,9 +287,11 @@ Government ID numbers
 Date of birth
 Employment history
 Academic history
+Job interviews may be recorded.
 
 4.9 Marketing
 Proctorio may also collect Personal Information from Institution representatives and other professionals, such as their name and email address, to send marketing communications about Proctorio's products and Services. These communications will only occur if they have consented to receiving this information. Proctorio does not sell, transfer or utilize your data for any purpose other than to provide Proctorio's Services.
+Webinars and marketing events may be recorded.
 Proctorio does NOT send marketing communications to Test Takers.
 
 4.10 Automatically collected Information; log Information
@@ -460,6 +464,7 @@ Proctorio stores Test Taker Personal Information, including all audio, video, an
 The length and location of how and where data for operations is stored varies and is dependent on applicable law and the information itself and whether Proctorio is acting as the data controller or the data processor all Personal Information is encrypted in transmission and at rest.
 
 7.2.1 As a data processor
+Your Institution sets the retention period for exam data (the "Retention Period") in its agreement with Proctorio and is responsible for informing Test Takers of it. Recording retention also depends on the product tier: the Lock Down tier makes no audio, video, or screen recordings and stores session metadata only; the Basic tier records webcam only, with a seven day standard Retention Period; the Plus tier has a thirty day standard Retention Period, which an Institution may extend to six months, to one year for education customers purchasing a license, or longer by agreement. At the end of the Retention Period, exam recordings and images, and the flags stored with them, are deleted.
 Proctorio retains data as directed by an Institution related to the Services that Proctorio provides to them. Proctorio retains Test Taker De-Identified Data to track usage, allow Proctorio to process billing for Institutions that are Proctorio's customers, and track global usage of Proctorio's Services. "De-Identified Data" (or pseudonymized) includes:
 A pseudonymous hash of the User ID
 A pseudonymous hash of the Exam ID
@@ -490,6 +495,9 @@ EU Test-Taker Payment Processing: Data is stored by a third-party sub-processor 
 EU Client Payment Processing: Data is stored within Germany by a third-party sub-processor headquartered in Germany.
 EU User and Client Support: Data is stored by a third-party sub-processor headquartered in the US and Europe.
 Institution Assessment Platform Monitoring: Data is stored in Europe by a third-party sub-processor based in Europe.
+
+7.3 Security Incident Notification
+If Proctorio becomes aware of a security incident affecting Personal Information: where Proctorio acts as a data processor, Proctorio will notify the affected Institution without undue delay and within the timeframe set in its agreement with that Institution, and will provide the information the Institution needs to meet its own notification obligations to Test Takers and regulators. Where Proctorio acts as a data controller, Proctorio will notify affected individuals and regulators as required by applicable law, by email to the address on file and/or by notice on proctorio.com. Proctorio investigates and manages incidents under its Security Incident Policy.
 
 8. YOUR RIGHTS
 You generally have the following rights with respect to your Personal Information. Note, some countries and states have their own privacy and data security laws, which may affect your rights.
@@ -588,10 +596,10 @@ U.S.  state privacy laws may apply to residents of those states who use Proctori
 When Proctorio acts as a controller, we generally collect the following categories of Personal Information under the CCPA:
 Identifiers: name, student or LMS identifier, email address, and, where identity verification is used, the verification fields described in the Identity verification section.
 Contact Data - Identity Data used to contact an individual, e.g. email address, physical address, or phone number.
-Audio/Visual Data: Personal Information  contained in images, video, or audio recordings.
+Audio/Visual Data: recordings of customer support phone calls, sales and demonstration meetings, webinars and marketing events, and job interviews.
 Device/Network Data: IP address, device identifiers, operating system and browser version, and network performance data.
 General Location Data: non-precise location derived from IP addresses.
-Inference Data - Personal Information we create or use as part of a profile reflecting your preferences, characteristics, aptitudes, market segments, likes, favorites or your interests.
+Inference Data: for Institution representatives and prospective customers only, marketing-related inferences such as product interest and customer segment, drawn from the information above. Proctorio does not draw inferences about Test Takers in its capacity as a controller.
 User Content: Personal Information included in content provided by users of the Site in any free-form or unstructured format, such as in a “contact us” box, free text field, in a file or document, or messages to us.
 Proctorio has disclosed each category of Personal Information above for our business purposes in the preceding twelve (12) months. Proctorio does not sell, “share,” or disclose such Personal Information for commercial purposes.
 Proctorio will not collect additional categories of Personal Information or use the Personal Information Proctorio collected for materially different, unrelated, or incompatible purposes without providing you notice.
