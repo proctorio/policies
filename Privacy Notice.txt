@@ -2,9 +2,9 @@
 Last modified October 1, 2026
 
 CONTENTS
-1. GENERAL
-2. WHAT IS PERSONAL INFORMATION
-3. HOW OUR PLATFORM COLLECTS AND PROCESSES PERSONAL INFORMATION (DATA PROCESSOR)
+1. General
+2. What is Personal Information
+3. How Our Platform Collects and Processes Personal Information (Data Processor)
     3.1 Proctoring
     3.2 Automated Proctoring
     3.3 Monitoring during an exam
@@ -12,7 +12,7 @@ CONTENTS
     3.5 Originality Verification
     3.6 Lock Down Settings
     3.7 Important Additional Information
-4. HOW WE COLLECT AND PROCESS PERSONAL INFORMATION – NON-PLATFORM SERVICES (DATA CONTROLLER)
+4. How We Collect and Process Personal Information - Non-Platform Services (Data Controller)
     4.1 Secure Exam Proctor administration - Institution registrations
     4.2 Request for demo
     4.3 Secure Exam Proctor exam enabling
@@ -26,27 +26,27 @@ CONTENTS
     4.11 Test-Taker payments
     4.12 Customer accounts and payments
     4.13 Service Information (technical and diagnostic data)
-5. ADDITIONAL USES OF PERSONAL INFORMATION
+5. Additional Uses of Personal Information
     5.1 As a data processor
     5.2 As a data controller
     5.3 Site operations and security
     5.4 De-identified data/aggregate information
-6. SHARING YOUR INFORMATION
+6. Sharing Your Information
     6.1 As a data processor
     6.2 As a data controller
     6.3 Law and harm
     6.4 Business transfers
     6.5 Payment processing
     6.6 Third-party service providers
-7. DATA SECURITY AND RETENTION
+7. Data Security and Retention
     7.1 Security
     7.2 Data Retention
     7.3 Security Incident Notification
-8. YOUR RIGHTS
+8. Your Rights
     8.1 As a data processor
     8.2 As a data controller
-9. CHANGES TO PROCTORIO'S PRIVACY NOTICE
-10. SUPPLEMENTAL NOTICES FOR SPECIFIC LAWS AND JURISDICTIONS
+9. Changes to Proctorio's Privacy Notice
+10. Supplemental Notices for Specific Laws and Jurisdictions
     10.1 FERPA
     10.2 K-12 deployments
     10.3 US State Consumer Privacy Laws
@@ -61,19 +61,19 @@ CONTENTS
     10.12 UAE and Saudi Arabia Data Protection
     10.13 Mexican User Rights — LFPDPPP
 
-1. GENERAL
-This Privacy Notice applies to your use of the “Service(s),” which include the following:
-Any of our products and services, such as our Automated Proctoring, Lock Down, ID Verification, Originality Verification, our browser plug-in, and other related platform features or modules (collectively, the “Platform”) whether as a Test-Taker (“Test Taker”) or an Institutional representative or administrative account holder (“Institutional User”);
-Our website, located at https://proctorio.com/ (the “Site”);
+1. General
+This Privacy Notice applies to your use of the "Service(s)," which include the following:
+Any of our products and services, such as our Automated Proctoring, Lock Down, ID Verification, Originality Verification, our browser plug-in, and other related platform features or modules (collectively, the "Platform") whether as a Test-Taker ("Test Taker") or an Institutional representative or administrative account holder ("Institutional User");
+Our website, located at https://proctorio.com/ (the "Site");
 Contacting us, such as through telephone, email, or mail, for ordering and support.
 If you provide Personal Information through Proctorio's Services, Proctorio may process Personal Information for the purposes described in this Privacy Notice.
-Note: When education providers and other institutions (“Institutions”) use the Proctorio Platform, the type of Service and settings selected by the Institution determine what Personal Information Proctorio processes and what Proctorio can collect from the Test Taker. We describe how these options function in this Privacy Notice; however, this Privacy Notice does not govern an Institution’s use of your Personal Information. We process Personal Information on behalf of Institutions per their instructions and subject to our agreements with those institutions. To learn more about how Institutions use your Personal Information, please review their privacy policies or contact them directly. We are not responsible for the privacy or security data practices of Institutions.
+Note: When education providers and other institutions ("Institutions") use the Proctorio Platform, the type of Service and settings selected by the Institution determine what Personal Information Proctorio processes and what Proctorio can collect from the Test Taker. We describe how these options function in this Privacy Notice; however, this Privacy Notice does not govern an Institution's use of your Personal Information. We process Personal Information on behalf of Institutions per their instructions and subject to our agreements with those institutions. To learn more about how Institutions use your Personal Information, please review their privacy policies or contact them directly. We are not responsible for the privacy or security data practices of Institutions.
 
-2. WHAT IS PERSONAL INFORMATION
+2. What is Personal Information
 For purposes of this Privacy Notice, "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
 Capitalized terms not defined herein shall have the meaning given to them in SaaS Agreement and Terms of Service. The SaaS Agreement and the Terms of Service fully detail both Proctorio's and the Institution's obligations in relation to the confidentiality of data.
 
-3. HOW OUR PLATFORM COLLECTS AND PROCESSES PERSONAL INFORMATION (DATA PROCESSOR)
+3. How Our Platform Collects and Processes Personal Information (Data Processor)
 When Proctorio operates the Platform on behalf of an Institution, Proctorio processes Personal Information as the Institution's data processor, and this notice is provided as a convenience to Test Takers. Proctorio's processing of Personal Information may be subject to additional restrictions under its agreements with Institutions and Institutions may process data for purposes not described in this Privacy Notice. Any Personal Information Proctorio provides to or receives from an Institution remains subject to the Institution's own privacy policy, which is the primary notice for the Institution's processing.
 Proctorio limits the Personal Information collected from end-users through their use of Proctorio's Services. For example:
 Proctorio only collects Personal Information as instructed by your Institution. This is dependent on the Services and settings selected by the relevant Institution-approved representatives.
@@ -87,7 +87,7 @@ Proctorio's Institution Services: When an Institution purchases Proctorio's Serv
 
 3.1.1 General
 Only an Institution may request Proctorio to use Automated or Live Proctoring during the administration of an exam.
-With either Automated or Live Proctoring, an exam administrator may instruct Proctorio to monitor Test Takers via a webcam, microphone, browser, and/or desktop in an effort to uphold the integrity of the assessment. Depending on the settings chosen by the Institution, this may include a scan of the Test Taker's surroundings, screen, and computer display, as well as video and other feature-specific categories of Personal Information (described below). This monitoring will either be automated (“Automated Proctoring”) and/or conducted by a live proctor (“Live Proctoring”). The Test Taker will be notified, before the beginning of an exam, whether Automated or Live Proctoring is being used.
+With either Automated or Live Proctoring, an exam administrator may instruct Proctorio to monitor Test Takers via a webcam, microphone, browser, and/or desktop in an effort to uphold the integrity of the assessment. Depending on the settings chosen by the Institution, this may include a scan of the Test Taker's surroundings, screen, and computer display, as well as video and other feature-specific categories of Personal Information (described below). This monitoring will either be automated ("Automated Proctoring") and/or conducted by a live proctor ("Live Proctoring"). The Test Taker will be notified, before the beginning of an exam, whether Automated or Live Proctoring is being used.
 
 3.1.2 Live proctors
 Live proctors are used for Live Proctoring and Standard ID Services only when selected by an Institution.
@@ -212,10 +212,10 @@ Proctorio uses Zero-Knowledge Encryption for any audio, video, and screen record
 
 3.7.2 Test-Taker records
 All Test-Taker records that are "student" or "educational records" obtained by Proctorio from an Institution are the property of the Institution and are under the control of that Institution.
-As noted above, Proctorio will follow the instructions provided by the Institution and Proctorio acts as a processor processing Personal Information on behalf of the Institution. The Institution is the controller and the Institution's Privacy Notice controls with respect to the processing of Personal Information collected from Test Takers. Please reach out to your Institution for more information regarding their privacy  practices
+As noted above, Proctorio will follow the instructions provided by the Institution and Proctorio acts as a processor processing Personal Information on behalf of the Institution. The Institution is the controller and the Institution's Privacy Notice controls with respect to the processing of Personal Information collected from Test Takers. Please reach out to your Institution for more information regarding their privacy practices.
 
-4. HOW WE COLLECT AND PROCESS PERSONAL INFORMATION – NON-PLATFORM SERVICES (DATA CONTROLLER)
-The sections below describe Personal Information that may be collected from an Institution-approved representative, from our corporate Site, or other contexts where Proctorio acts as a data “controller.”
+4. How We Collect and Process Personal Information - Non-Platform Services (Data Controller)
+The sections below describe Personal Information that may be collected from an Institution-approved representative, from our corporate Site, or other contexts where Proctorio acts as a data "controller."
 
 4.1 Secure Exam Proctor administration - Institution registrations
 To register an Institution to use the Proctorio's suite of Services, an administrator account must be created. To register an account for your Institution, an Institution-approved representative must provide Personal Information, such as:
@@ -332,7 +332,7 @@ Email address - to receive a digital receipt
 The software processes technical information needed to run your exam: connection status and quality, error and recovery signals, and integrity and security checks of the exam environment. This operational data is part of delivering the exam session itself and is processed only for that purpose, except that it may also be retained in anonymous form to compile aggregate statistics on the use of the Services. Where it requires storing information on your device or reading information already stored there, it is limited to what is strictly necessary to provide the exam you requested; for users in Germany, this is the standard of Section 25(2) of the Telecommunications Digital Services Data Protection Act (TDDDG).
 Separately, the software offers optional diagnostic telemetry that helps Proctorio find and fix problems. It is off by default and runs only after you turn it on (opt-in). It collects a minimal set: an event code, the software version and distribution channel, the address of the learning platform in use, timing and count measurements, and a hashed exam and course reference. It is identified only by a random identifier that exists for the running session. It contains no name, no user identifier, no exam content, no grades, and no recordings. Diagnostic telemetry goes only to a Proctorio-operated endpoint; the software uses no third-party analytics services. It is retained only as long as needed for diagnostics and quality improvement and is then deleted or reduced to aggregate statistics.
 
-5. ADDITIONAL USES OF PERSONAL INFORMATION
+5. Additional Uses of Personal Information
 Proctorio's use of Personal Information depends on whether we are processing Personal Information on behalf of an Institution as a data processor, or if we process Personal Information on our own behalf, e.g. when an individual provides Personal Information to us directly or visits Proctorio's Sites.
 
 5.1 As a data processor
@@ -346,11 +346,11 @@ Administrative account creation
 Institution assessment platform use
 Administering the Secure Exam Proctor environment
 Processing client payments and/or Test Taker payments
-Please Note: The Institution decides which of Proctorio's products or Services to use and which settings and features to enable. While we provide information regarding the collection and sharing of data through these features for the convenience of Institutions and users, note that privacy policies of Institutions apply and Proctorio’s processing of Personal Information on behalf of Institutions is subject to those privacy policies.
+Please Note: The Institution decides which of Proctorio's products or Services to use and which settings and features to enable. While we provide information regarding the collection and sharing of data through these features for the convenience of Institutions and users, note that privacy policies of Institutions apply and Proctorio's processing of Personal Information on behalf of Institutions is subject to those privacy policies.
 
 5.2 As a data controller
-As a controller, we use your Personal Information when you register with an institution, to engage and support in customer service, process payments (may be provided by a separate third party controller), conduct surveys, receive and evaluate feedback, send marketing and promotional materials, evaluate job applications, evaluate potential business transactions, to operate and secure the Services, and as necessary to comply with legal obligations. Please note that we do not send marketing or promotional materials to individuals in their capacity as Test Takers. Please see the “How we Collect and Process Personal Information – Non-Platform Services (Data Controller)” section for more information on the personal information we process as a data controller.
-In addition to the Service or feature specific processing described in the “How we Collect and Process Personal Information – Non-Platform Services” section, when we act as a data controller, we generally process Personal Information for the following general purposes:
+As a controller, we use your Personal Information when you register with an institution, to engage and support in customer service, process payments (may be provided by a separate third party controller), conduct surveys, receive and evaluate feedback, send marketing and promotional materials, evaluate job applications, evaluate potential business transactions, to operate and secure the Services, and as necessary to comply with legal obligations. Please note that we do not send marketing or promotional materials to individuals in their capacity as Test Takers. Please see the "How we Collect and Process Personal Information - Non-Platform Services (Data Controller)" section for more information on the personal information we process as a data controller.
+In addition to the Service or feature specific processing described in the "How we Collect and Process Personal Information - Non-Platform Services" section, when we act as a data controller, we generally process Personal Information for the following general purposes:
 
 5.3 Site operations and security
 As a controller and operator of Proctorio's Site, Proctorio automatically collects information and log details to operate Proctorio's Sites.
@@ -361,16 +361,16 @@ Proctorio also has in place website security tools and processes, including pene
 5.4 De-identified data/aggregate information
 Proctorio uses de-identified information for billing and utilization analysis of Proctorio's Services and for customer billing and usage.
 
-6. SHARING YOUR INFORMATION
+6. Sharing Your Information
 We generally share information in the following manner. Note: Proctorio doesn't sell Test-Taker data to third parties, and Proctorio doesn't share Test-Taker data with third parties for any marketing purposes.
 
 6.1 As a data processor
-Test Taker data that enters Proctorio's system has been encrypted using an unshared key stored in an Institution's assessment platform and can only be decrypted by the Institution-approved representative within the assessment platform. Proctorio utilizes the assessment platform to gain information about the user's role. This restricts information from being shared with users who are not labeled as an Institution-approved representative. We may be granted access to Personal Information where granted by the Institution, and institutions may share data as described in the Institution’s privacy policy.
+Test Taker data that enters Proctorio's system has been encrypted using an unshared key stored in an Institution's assessment platform and can only be decrypted by the Institution-approved representative within the assessment platform. Proctorio utilizes the assessment platform to gain information about the user's role. This restricts information from being shared with users who are not labeled as an Institution-approved representative. We may be granted access to Personal Information where granted by the Institution, and institutions may share data as described in the Institution's privacy policy.
 For Institutions that have enabled third-party ID verification, Proctorio may use third parties for identity verification with individual consent to successfully enter or submit a proctored exam using Proctorio's Services. We use the identity verification services of the Verification Provider identified in our sub-processor list below. The provider's retention and redaction of verification data follow the schedule described in the Identity verification section of this notice.
 We may also share Personal Information with our service providers who process data on our behalf, as described below.
 
 6.2 As a data controller
-In instances where Proctorio is the controller and Proctorio collects Personal Information as described in the “How we Collect and Process Personal Information – Non-Platform Services” section, we may share Personal Information as described in this Section.
+In instances where Proctorio is the controller and Proctorio collects Personal Information as described in the "How we Collect and Process Personal Information - Non-Platform Services" section, we may share Personal Information as described in this Section.
 
 6.3 Law and harm
 Proctorio may disclose Test-Taker Information if Proctorio believes that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Proctorio's rights or property.
@@ -383,7 +383,7 @@ Proctorio does not and will not sell or otherwise transfer your data to any thir
 Proctorio uses a third-party payment processor to process payments. Proctorio does not directly collect payment information and is not a money-services business. To the extent such functionality is made available in the Services, it is provided by an unaffiliated third party, and like any other third-party service, is subject to their terms of use.
 
 6.6 Third-party service providers
-Proctorio uses third-party service providers to help provide Proctorio's Services, such as hosting Proctorio's various blogs, Help Center, and knowledge bases, and to help Institutions understand the use of Proctorio's Services. Since Proctorio uses Zero-Knowledge Encryption for audio, video, screen recordings and images, Test-Taker data is encrypted and not accessible by the third-party service provider. In all instances, third-party services providers can only use any data for Proctorio's (or, where Proctorio is a data processor, an Institution’s) business purposes as specified in Proctorio's written agreement with them and not their own purposes, except as expressly described in this Privacy Notice (for example, the Verification Provider's own fraud-prevention retention described in the Identity verification section). These Services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
+Proctorio uses third-party service providers to help provide Proctorio's Services, such as hosting Proctorio's various blogs, Help Center, and knowledge bases, and to help Institutions understand the use of Proctorio's Services. Since Proctorio uses Zero-Knowledge Encryption for audio, video, screen recordings and images, Test-Taker data is encrypted and not accessible by the third-party service provider. In all instances, third-party services providers can only use any data for Proctorio's (or, where Proctorio is a data processor, an Institution's) business purposes as specified in Proctorio's written agreement with them and not their own purposes, except as expressly described in this Privacy Notice (for example, the Verification Provider's own fraud-prevention retention described in the Identity verification section). These Services may collect information sent by your browser as part of a web page request, such as cookies or your IP request.
 The sub-processors that Proctorio uses are listed below but Proctorio may update this list periodically. To ensure you are aware of all updates, please periodically check for updates here. You can also subscribe to receive update notifications at github.com/proctorio/policies.
 
 6.6.1 Required sub-processors for all services:
@@ -444,7 +444,7 @@ Assessment platform functionality information
 Client billing information
 This data is transferred depending on what is required by the Institution, its users, and what is deemed necessary for the operation of Proctorio's website(s), application(s), and/or Services.
 
-7. DATA SECURITY AND RETENTION
+7. Data Security and Retention
 
 7.1 Security
 Proctorio employs procedural and technical security measures that are reasonably designed to help protect Proctorio's Test Takers' Personal Information from loss, unauthorized access, disclosure, alteration, or destruction, which includes encryption and other security measures to help prevent unauthorized access to a Test Taker's Personal Information. The data a Test Taker transmits as part of their use of the Institution Services ("Storage Data") is encrypted and Proctorio does not have the decryption keys to decrypt or review Test Taker Storage Data in its unencrypted form.
@@ -456,8 +456,7 @@ Proctorio is SOC 2, ISO 27001, and ISO 27018 certified and conducts regular secu
 For Test Taker Information that Proctorio processes for an Institution, Proctorio implements Zero-Knowledge Encryption, which means only Institution-approved representatives can decrypt and review encrypted exam recordings.
 Test-taker audio, video, and screen recordings and images are secured and processed through three layers of encryption:
 The Zero-Knowledge Encryption layer is used when information is stored and is secured using AES-GCM.
-Transmission into the datacenter is over TLSv1.2 / TLSv1.3 and,
-if the client supports it, Proctorio uses Perfect Forward Secrecy (PFS).
+Transmission into the datacenter is over TLSv1.2 / TLSv1.3 and, if the client supports it, Proctorio uses Perfect Forward Secrecy (PFS).
 
 7.2 Data Retention
 Proctorio stores Test Taker Personal Information, including all audio, video, and screen recordings and images, which Proctorio collects during the exam for the minimum amount of time required by the Institution or by applicable law.
@@ -499,7 +498,7 @@ Institution Assessment Platform Monitoring: Data is stored in Europe by a third-
 7.3 Security Incident Notification
 If Proctorio becomes aware of a security incident affecting Personal Information: where Proctorio acts as a data processor, Proctorio will notify the affected Institution without undue delay and within the timeframe set in its agreement with that Institution, and will provide the information the Institution needs to meet its own notification obligations to Test Takers and regulators. Where Proctorio acts as a data controller, Proctorio will notify affected individuals and regulators as required by applicable law, by email to the address on file and/or by notice on proctorio.com. Proctorio investigates and manages incidents under its Security Incident Policy.
 
-8. YOUR RIGHTS
+8. Your Rights
 You generally have the following rights with respect to your Personal Information. Note, some countries and states have their own privacy and data security laws, which may affect your rights.
 
 8.1 As a data processor
@@ -514,10 +513,10 @@ If we rely on your consent to our processing of Personal Information, you may wi
 8.2.2 Marketing Communications
 You can withdraw your consent to receive marketing communications by clicking on the unsubscribe link in an email, or for other communications, by contacting us by email at dataprivacy@proctorio.com. To opt-out of the collection of information relating to email opens, configure your email so that it does not load images in our emails.
 
-9. CHANGES TO PROCTORIO'S PRIVACY NOTICE
+9. Changes to Proctorio's Privacy Notice
 Proctorio reserves the right to amend this Privacy Notice at Proctorio's discretion and at any time. When Proctorio makes changes to this Privacy Notice, Proctorio will notify you by email or through a notice on Proctorio's website homepage.
 
-10. SUPPLEMENTAL NOTICES FOR SPECIFIC LAWS AND JURISDICTIONS
+10. Supplemental Notices for Specific Laws and Jurisdictions
 
 10.1 FERPA
 Proctorio adheres to the Family Educational Rights and Privacy Act (FERPA), as applicable, when it is providing Services to educational Institutions in the United States that are subject to FERPA.
@@ -546,7 +545,7 @@ Screen recording and browser activity during the exam session, if enabled by the
 Device information: IP address, device identifier, operating system and browser version
 Behavioral data generated during the exam session: gaze direction indicators and flagged activity events, surfaced to institution-authorized reviewers
 Proctorio does not collect biometric identifiers, government-issued identification numbers, financial information, or precise geolocation data from students in K-12 deployments. All audio, video, and screen recordings are protected by Zero-Knowledge Encryption and can only be decrypted by institution-authorized representatives.
-Proctorio's automated systems and any underlying AI models are designed to be used as decision-support tools for institutional reviewers, not as autonomous decision-making systems. The service is not intended to be used in isolation, and Proctorio does not make recommendations regarding any action to be taken, or any sanction, or determination to be made with respect to a student. Institution’s are not authorized to rely solely on Proctorio’s automated signals or any outputs generated by Proctorio’s automated or AI systems provided by Proctorio to make decisions, or use them as a substantial portion of any decision. All such decisions are intended to be made by the institution following human review of the relevant event data.
+Proctorio's automated systems and any underlying AI models are designed to be used as decision-support tools for institutional reviewers, not as autonomous decision-making systems. The service is not intended to be used in isolation, and Proctorio does not make recommendations regarding any action to be taken, or any sanction, or determination to be made with respect to a student. Institution's are not authorized to rely solely on Proctorio's automated signals or any outputs generated by Proctorio's automated or AI systems provided by Proctorio to make decisions, or use them as a substantial portion of any decision. All such decisions are intended to be made by the institution following human review of the relevant event data.
 
 10.2.1 K-12 Student Data Use Commitments
 When Proctorio provides Services to K-12 educational institutions, Proctorio collects and processes student Personal Information solely to provide the contracted proctoring service as directed by the institution. Proctorio makes the following commitments with respect to student Personal Information collected in connection with K-12 institutional deployments:
@@ -562,7 +561,7 @@ These commitments apply in addition to, and do not limit, any obligations under 
 
 10.2.2 Student Data Privacy Agreements (SDPAs)
 Proctorio recognizes that many K-12 educational institutions are required by state law or district policy to enter into a Student Data Privacy Agreement (SDPA) or equivalent data governance agreement with third-party service providers prior to deployment.
-Proctorio offers a Student Data Privacy Agreement for K-12 institutional customers. The SDPA sets out Proctorio's specific obligations with respect to the collection, use, disclosure, and protection of student Personal Information. As in other cases where Proctorio acts as a data processor, where an institution enters into an SDPA, our processing is subject and controlled by Proctorio’s obligations under the SDPA.
+Proctorio offers a Student Data Privacy Agreement for K-12 institutional customers. The SDPA sets out Proctorio's specific obligations with respect to the collection, use, disclosure, and protection of student Personal Information. As in other cases where Proctorio acts as a data processor, where an institution enters into an SDPA, our processing is subject and controlled by Proctorio's obligations under the SDPA.
 K-12 institutions that require an SDPA, or that are subject to state laws requiring a vendor data governance agreement, should contact Proctorio at privacy@proctorio.com to request the Student Data Privacy Agreement or to initiate a review of an institution-specific SDPA template.
 
 10.2.3 COPPA
@@ -590,7 +589,7 @@ Email: privacy@proctorio.com | Subject line: K-12 Privacy Request — [Instituti
 Proctorio will acknowledge receipt of K-12 privacy requests within five (5) business days and will work with the relevant institution to facilitate a response within thirty (30) days.
 
 10.3 US State Consumer Privacy Laws
-U.S.  state privacy laws may apply to residents of those states who use Proctorio's services. Where applicable, Proctorio acts as a processor or service provider under these laws and processes Personal Information only on behalf of and under the instructions of the contracting Institution. Residents of these states may exercise applicable rights (access, correction, deletion, portability, opt-out of sale/targeted advertising) by contacting their Institution in the first instance. Proctorio will assist Institutions in responding to verified data subject requests as required under applicable data processing agreements.
+U.S. state privacy laws may apply to residents of those states who use Proctorio's services. Where applicable, Proctorio acts as a processor or service provider under these laws and processes Personal Information only on behalf of and under the instructions of the contracting Institution. Residents of these states may exercise applicable rights (access, correction, deletion, portability, opt-out of sale/targeted advertising) by contacting their Institution in the first instance. Proctorio will assist Institutions in responding to verified data subject requests as required under applicable data processing agreements.
 
 10.3.1 Categories of Personal Information Collected
 When Proctorio acts as a controller, we generally collect the following categories of Personal Information under the CCPA:
@@ -600,8 +599,8 @@ Audio/Visual Data: recordings of customer support phone calls, sales and demonst
 Device/Network Data: IP address, device identifiers, operating system and browser version, and network performance data.
 General Location Data: non-precise location derived from IP addresses.
 Inference Data: for Institution representatives and prospective customers only, marketing-related inferences such as product interest and customer segment, drawn from the information above. Proctorio does not draw inferences about Test Takers in its capacity as a controller.
-User Content: Personal Information included in content provided by users of the Site in any free-form or unstructured format, such as in a “contact us” box, free text field, in a file or document, or messages to us.
-Proctorio has disclosed each category of Personal Information above for our business purposes in the preceding twelve (12) months. Proctorio does not sell, “share,” or disclose such Personal Information for commercial purposes.
+User Content: Personal Information included in content provided by users of the Site in any free-form or unstructured format, such as in a "contact us" box, free text field, in a file or document, or messages to us.
+Proctorio has disclosed each category of Personal Information above for our business purposes in the preceding twelve (12) months. Proctorio does not sell, "share," or disclose such Personal Information for commercial purposes.
 Proctorio will not collect additional categories of Personal Information or use the Personal Information Proctorio collected for materially different, unrelated, or incompatible purposes without providing you notice.
 Third parties receiving Personal Information, including service providers processing Personal Information on Proctorio's behalf, are only permitted to process that Personal Information as described in Proctorio's Privacy Notice and Proctorio's written agreements and are not permitted to sell Personal Information or market to any test-taker.
 Note re Biometric Information: Biometric data is processed only as described in the Identity verification, Automated Re-verification, and Continuity Check sections of this notice. Verification biometrics for Instant ID are collected and held by the third party verification provider; the Match ID, Automated Re-verification, and Continuity Check comparisons run only on your device. Proctorio never collects or retains a biometric identifier or template.
@@ -609,7 +608,7 @@ Proctorio provides Services to Institutions as a "School Official" under FERPA a
 Please note that government agencies, including public Institutions, are not subject to CCPA. If you have a question or would like to exercise your California consumer rights to knowledge, access, or deletion, please contact your Institution directly.
 
 10.3.2 Sale/Sharing of Data for CCPA purposes
-Proctorio does not sell or “Share” (as defined by CCPA) or disclose your Personal Information to any third parties for targeted advertising or direct marketing purposes and has not done so in the past 12 months. Proctorio shares your Personal Information with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Proctorio-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect the rights and property of Proctorio and its users.
+Proctorio does not sell or "Share" (as defined by CCPA) or disclose your Personal Information to any third parties for targeted advertising or direct marketing purposes and has not done so in the past 12 months. Proctorio shares your Personal Information with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Proctorio-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect the rights and property of Proctorio and its users.
 
 10.3.3 Rights of Residents of Applicable US States
 If you are a resident of certain US states, you have other rights under your respective states' consumer privacy statutes:
@@ -617,11 +616,11 @@ Right of Know/Access: You can access your collected Personal Information by cont
 Right to Correct, Update, or Delete: You can correct, update or request deletion of your Personal Information by contacting the Institution. Proctorio can't make changes to or delete your information in some situations where it is necessary for us to maintain your information, for example if Proctorio needs the Information to comply with applicable law or based on other exceptions as indicated in the CCPA.
 Right of Portability: Please contact us at dataprivacy@proctorio.com to request that we provide certain Personal Information in a common, portable format.
 Rights to Limit Use of Sensitive Information: You may have the right to limit use of any "Sensitive Personal Information" (SPI). SPI includes highly sensitive data such as: social security number; driver's license or government ID data; passport number; financial account information and log-in credentials; precise geolocation data; genetic data; and ethnic origin. We may collect Government ID Data as described in the Identify Verification section described above.
-Right to opt-out of Data sales/ “sharing” and targeted advertising: You may have the right to opt-out of data sales, “sharing” and targeted advertising. Proctorio does not engage in such processing at this time. If you have any questions about these rights, please contact us at dataprivacy@proctorio.com.
+Right to opt-out of Data sales/ "sharing" and targeted advertising: You may have the right to opt-out of data sales, "sharing" and targeted advertising. Proctorio does not engage in such processing at this time. If you have any questions about these rights, please contact us at dataprivacy@proctorio.com.
 Right to opt-out of Certain Profiling: Depending on your state of residency, you may have the right to know what information of yours we have processed for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. If you have any questions about these rights or wish to opt-out of any processing of your Personal Information as it relates to profiling, please contact us at dataprivacy@proctorio.com.
 Right to Non-Discrimination: Proctorio does not and will not discriminate against you if you exercise your rights under the US state consumer privacy laws.
-Right to list of Direct Marketing Disclosures: California residents have the right to request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. If you have any questions about these rights, please contact us at dataprivacy@proctorio.com.
-When you contact us regarding any of your rights under the  US state consumer privacy laws, we will verify your identity before we provide any information, unless prohibited by law.
+Right to list of Direct Marketing Disclosures: California residents have the right to request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. If you have any questions about these rights, please contact us at dataprivacy@proctorio.com.
+When you contact us regarding any of your rights under the US state consumer privacy laws, we will verify your identity before we provide any information, unless prohibited by law.
 To exercise the rights described in this Privacy Notice, please submit a verifiable consumer request to us:
 via phone: Toll Free +1 866 948 9087
 via email: dataprivacy@proctorio.com
@@ -656,12 +655,11 @@ Canadian recipients may withdraw consent for marketing communications at any tim
 
 10.5 Data Transfers; GDPR and EU-US, UK Extension, and Swiss-US Data Privacy Framework
 If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Information) to Proctorio and Proctorio's facilities in the United States or elsewhere, including those of third parties as described in the "Business transfers" and "Third-party service providers" sections of this Privacy Notice. Proctorio remains liable under the DPF Principles if the third parties process Personal Information in a manner inconsistent with the DPF Principles.
-Proctorio complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Proctorio has certified to the U.S. Department of Commerce that it adheres to the EU-U.S.
-Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Information received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Proctorio has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Information received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+Proctorio complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Proctorio has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Information received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Proctorio has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Information received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Proctorio commits to resolve DPF Principles-related complaints about our collection and use of your Personal Information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of Personal Information received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Proctorio at: dataprivacy@proctorio.com.
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Proctorio commits to refer unresolved complaints concerning our handling of Personal Information received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/DPF-Dispute-Resolution. The services of JAMS are provided at no cost to you.
 If you as an EU, UK, or Swiss individual believe that Proctorio has violated its obligations under the DPF Principles, there are certain conditions in which you may invoke binding arbitration for complaints regarding DPF Principles that were not resolved through the Company or through JAMS. Please see Annex I for additional information.
-The Federal Trade Commission has jurisdiction over Proctorio’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+The Federal Trade Commission has jurisdiction over Proctorio's compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 In addition to the Data Privacy Framework, where required by applicable law or where otherwise appropriate, Proctorio may rely on the European Commission's Standard Contractual Clauses (SCCs) as approved under Commission Decision 2021/914 as an additional transfer mechanism for transfers of Personal Information from the EEA to countries without an adequacy decision. For transfers from the United Kingdom, Proctorio uses the UK International Data Transfer Addendum (IDTA) to the EU SCCs. Copies of the applicable transfer mechanism are available upon request by contacting privacy@proctorio.com.
 Proctorio also complies with the EU General Data Protection Regulation ("GDPR"). Proctorio is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland to GDPR standards. In situations where public authorities make lawful requests for information, such as to meet national security or law enforcement requirements, Proctorio may be required to disclose Personal Information.
 Proctorio's Data Protection Officer contact information is as follows:
@@ -689,44 +687,25 @@ Marketing: For Institution-approved representatives, you have the right to opt-o
 
 10.5.3 Legal Basis
 If you are a Proctorio user or are visiting Proctorio's Site(s) and are located in the UK, Switzerland or European Economic Area ("EEA"), Proctorio's legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which Proctorio collects it.
-Legal Basis
-Description of Basis & Relevant Purposes
-Relevant Contexts / Purposes / Disclosures
 Performance of a contract
 The processing of your Personal Information is strictly necessary in the context in which it was provided, e.g. to provide the Site or perform an agreement you have with us, to provide our products or services to you, or to process your requests.
-Purposes
-Cookies (strictly necessary)
-Site Operations
-Sharing
-Payment processing
-Third Party Service Providers
+Purposes: Cookies (strictly necessary); Site Operations
+Sharing: Payment processing; Third Party Service Providers
 Legitimate interests
 This processing is based on our legitimate interests. For example, we rely on our legitimate interest to administer, analyze, and improve our Services, to operate our business, including through the use of service providers and subcontractors, to send you notifications about our Services or your subscriptions, for archiving, recordkeeping, statistical and analytical purposes, and to use your Personal Information for administrative, fraud detection, audit, training, security, or legal purposes. See the Business Purposes of Processing section above for more information regarding the nature of processing performed on the basis of our legitimate interests.
-Purposes
-Site operations and security
-De-identified/Aggregated Data
-Bot Detection
-Sharing
-Third Party Service Providers
-Business Transfers
-Law and harm
+Purposes: Site operations and security; De-identified/Aggregated Data; Bot Detection
+Sharing: Third Party Service Providers; Business Transfers; Law and harm
 Consent
 This processing is based on your consent. You are free to withdraw any consent you may have provided, at any time, subject to your rights/choices, and any right to continue processing on alternative or additional legal bases. Withdrawal of consent does not affect the lawfulness of processing undertaken prior to withdrawal.
-Purposes
-Cookies (except strictly necessary)
-Marketing
-Sharing
-Marketing
+Purposes: Cookies (except strictly necessary); Marketing
+Sharing: Marketing
 Compliance with legal obligations
 This processing is based on our need to comply with legal obligations. We may use your Personal Information to comply with legal obligations to which we are subject, including to comply with legal process. See the Business Purposes of Processing section above for more information regarding the nature of processing performed for compliance purposes.
-Purposes
-Security
-Sharing
-Law and Harm
+Purposes: Security
+Sharing: Law and harm
 Performance of a task carried out in the public interest
 This processing is based on our need to protect recognized public interests. We may use your Personal Information to perform a task in the public interest or that is in the vital interests of an individual. See the Business Purposes of Processing section above for more information regarding the nature of processing performed for such purposes.
-Sharing
-Law and Harm
+Sharing: Law and harm
 
 10.5.4 Submitting Requests
 To submit a request, please provide to the appropriate address:
