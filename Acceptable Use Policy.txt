@@ -41,6 +41,9 @@ Proctorio also reserves sole discretion to decide whether any of Your Content is
 2. Terms Applicable to Institution Users.
 The following terms apply to Institution Users who are responsible for administering assessments, evaluations, or assignments that will be accessed by End Users using the Services, including but not limited to such Institution Users who design such assessments, evaluations, or assignments, establish procedures and protocols for the conducting of such assessments, evaluations, or assignments, proctor such assessments, evaluations, or assignments, or review and resolve issues arising from such assessments, evaluations, or assignments.
 In addition to all other terms applicable to Institution Users under this AUP, to the extent applicable to Institution User role and responsibilities, Institution User agrees to administer all assessments, evaluations, or assignments that are accessed using the Services in a manner that (i) complies with all policies, procedures, and requirements of the Institution through which the End Users are provided access to the Services and (ii) is reasonable and fair under the circumstances. Institution User represents and warrants that Institution User has completed all training reasonably required to perform such duties in a manner consistent with the policies, procedures, and requirements of Institution User's Institution and in compliance with this AUP. Prior to performing such duties, Institution User agrees to review Proctorio's exam administrator training modules (https://proctorio.academy).
+
+"Exam Attempt" means a single assessment, evaluation, or assignment session, identified by a unique identifier, that must begin and conclude within a continuous eight (8) hour window. An End User may pause and resume an assessment multiple times within that eight-hour window without creating a new Exam Attempt. An assessment that is not completed within its eight-hour window may not be resumed under the same attempt identifier; any further activity on that assessment constitutes a new Exam Attempt and will be billed accordingly.
+
 In Institution User's use of the Services, Institution User further agree that Institution User will
 not, directly or indirectly:
 
@@ -53,7 +56,9 @@ communicate with or attempt to communicate with End Users for any purpose unrela
 share Your password, let anyone else access Your account, or do anything else that might jeopardize the security of Your account;
 allow multiple users to access Your account;
 assign or transfer Your account or log-in information to anyone;
-use a license for more than one integration, or reuse licenses; or
+use a license for more than one integration, or reuse licenses;
+extend a single Exam Attempt beyond its eight (8) hour window, or otherwise split, pause, or resume an assessment across multiple days under the same attempt identifier, in order to avoid being billed for an additional Exam Attempt;
+combine multiple distinct assessments, evaluations, or assignments into a single Exam Attempt, or otherwise administer more than one assessment, evaluation, or assignment within a single eight (8) hour window, in order to avoid being billed for each one; or
 improperly label Your integrations as for development, testing, or beta when You are using the Application Service to administer assessments, evaluations, or assignment.
 
 3. Terms Applicable to End Users.
